@@ -1,0 +1,301 @@
+customer_id,first_name,last_name,email,city,customer_segment,signup_date
+1,Patricia,Mwangi,patricia.mwangi1@example.com,Eldoret,Consumer,2025-01-29
+2,Faith,Kiptoo,faith.kiptoo2@example.com,Mombasa,Small Business,2025-01-24
+3,Irene,Otieno,irene.otieno3@example.com,Thika,Consumer,2024-08-27
+4,James,Otieno,james.otieno4@example.com,Nakuru,Small Business,2023-08-12
+5,Esther,Mwangi,esther.mwangi5@example.com,Nakuru,Small Business,2024-07-28
+6,Irene,Achieng,irene.achieng6@example.com,Nyeri,Small Business,2023-08-14
+7,Kevin,Mwangi,kevin.mwangi7@example.com,Kisumu,Small Business,2025-02-16
+8,Jane,Maina,jane.maina8@example.com,Kisumu,Consumer,2023-10-12
+9,David,Ochieng,david.ochieng9@example.com,Thika,Consumer,2023-04-05
+10,Anne,Kipchoge,anne.kipchoge10@example.com,Eldoret,Consumer,2024-09-10
+11,Michael,Koech,michael.koech11@example.com,Thika,Consumer,2023-05-08
+12,Irene,Onyango,irene.onyango12@example.com,Naivasha,Corporate,2025-04-29
+13,Joseph,Njoroge,joseph.njoroge13@example.com,Mombasa,Consumer,2024-12-22
+14,Faith,Onyango,faith.onyango14@example.com,Nakuru,Consumer,2023-03-23
+15,Peter,Kariuki,peter.kariuki15@example.com,Meru,Consumer,2024-04-09
+16,Anne,Kipchoge,anne.kipchoge16@example.com,Eldoret,Small Business,2023-08-03
+17,John,Mbugua,john.mbugua17@example.com,Kisumu,Small Business,2024-10-12
+18,Faith,Wanjiku,faith.wanjiku18@example.com,Thika,Corporate,2024-04-18
+19,Irene,Mutua,irene.mutua19@example.com,Meru,Consumer,2024-12-02
+20,Faith,Kamau,faith.kamau20@example.com,Meru,Corporate,2025-04-04
+21,Kevin,Otieno,kevin.otieno21@example.com,Naivasha,Small Business,2023-08-05
+22,David,Njoroge,david.njoroge22@example.com,Nyeri,Corporate,2024-11-02
+23,Michael,Kiptoo,michael.kiptoo23@example.com,Kisumu,Consumer,2023-09-29
+24,Irene,Koech,irene.koech24@example.com,Naivasha,Corporate,2023-09-27
+25,Joseph,Kimani,joseph.kimani25@example.com,Nakuru,Consumer,2024-01-06
+26,Samuel,Muriuki,samuel.muriuki26@example.com,Nairobi,Consumer,2023-04-04
+27,Daniel,Wanjiku,daniel.wanjiku27@example.com,Thika,Small Business,2025-03-22
+28,John,Kimani,john.kimani28@example.com,Naivasha,Corporate,2024-01-26
+29,Samuel,Kariuki,samuel.kariuki29@example.com,Machakos,Consumer,2025-09-21
+30,Patricia,Koech,patricia.koech30@example.com,Eldoret,Small Business,2025-02-07
+31,David,Ochieng,david.ochieng31@example.com,Thika,Consumer,2023-10-28
+32,Michael,Mwangi,michael.mwangi32@example.com,Eldoret,Small Business,2025-09-03
+33,Grace,Odhiambo,grace.odhiambo33@example.com,Mombasa,Small Business,2025-07-23
+34,Mercy,Odhiambo,mercy.odhiambo34@example.com,Nakuru,Consumer,2024-09-15
+35,Anne,Wanjiku,anne.wanjiku35@example.com,Machakos,Consumer,2024-07-06
+36,Esther,Maina,esther.maina36@example.com,Nairobi,Consumer,2024-05-15
+37,Anne,Onyango,anne.onyango37@example.com,Nairobi,Consumer,2023-09-03
+38,Joseph,Otieno,joseph.otieno38@example.com,Nyeri,Consumer,2023-03-29
+39,Irene,Kiptoo,irene.kiptoo39@example.com,Nyeri,Small Business,2023-05-12
+40,Grace,Kariuki,grace.kariuki40@example.com,Naivasha,Corporate,2024-06-24
+41,Brian,Koech,brian.koech41@example.com,Nakuru,Small Business,2025-02-12
+42,Mercy,Kimani,mercy.kimani42@example.com,Meru,Corporate,2024-11-18
+43,Samuel,Wambui,samuel.wambui43@example.com,Nakuru,Consumer,2023-05-04
+44,John,Maina,john.maina44@example.com,Naivasha,Small Business,2023-01-22
+45,Faith,Chebet,faith.chebet45@example.com,Nairobi,Consumer,2023-08-14
+46,Mary,Mutua,mary.mutua46@example.com,Nairobi,Corporate,2023-03-11
+47,John,Odhiambo,john.odhiambo47@example.com,Eldoret,Small Business,2023-09-01
+48,Lucy,Njoroge,lucy.njoroge48@example.com,Kisumu,Small Business,2024-07-06
+49,Joseph,Chebet,joseph.chebet49@example.com,Nakuru,Corporate,2024-04-29
+50,Jane,Njoroge,jane.njoroge50@example.com,Mombasa,Small Business,2023-04-07
+51,Jane,Kipchoge,jane.kipchoge51@example.com,Thika,Corporate,2024-03-09
+52,Mary,Ochieng,mary.ochieng52@example.com,Thika,Small Business,2023-03-04
+53,David,Ochieng,david.ochieng53@example.com,Nakuru,Consumer,2023-09-12
+54,Irene,Wambui,irene.wambui54@example.com,Thika,Consumer,2023-05-24
+55,Kevin,Wambui,kevin.wambui55@example.com,Mombasa,Corporate,2023-09-13
+56,Irene,Ochieng,irene.ochieng56@example.com,Machakos,Consumer,2023-02-21
+57,John,Mutua,john.mutua57@example.com,Thika,Corporate,2023-06-20
+58,Lucy,Njoroge,lucy.njoroge58@example.com,Thika,Consumer,2025-06-04
+59,Grace,Kimani,grace.kimani59@example.com,Thika,Corporate,2023-01-03
+60,Michael,Onyango,michael.onyango60@example.com,Machakos,Small Business,2024-03-09
+61,Lucy,Kiptoo,lucy.kiptoo61@example.com,Eldoret,Consumer,2023-07-14
+62,Mary,Chebet,mary.chebet62@example.com,Machakos,Consumer,2025-01-23
+63,David,Kamau,david.kamau63@example.com,Naivasha,Corporate,2023-02-21
+64,Samuel,Odhiambo,samuel.odhiambo64@example.com,Nairobi,Small Business,2023-06-11
+65,John,Wanjiku,john.wanjiku65@example.com,Naivasha,Consumer,2023-03-12
+66,Faith,Kimani,faith.kimani66@example.com,Naivasha,Consumer,2023-05-03
+67,Joseph,Mbugua,joseph.mbugua67@example.com,Naivasha,Consumer,2023-02-10
+68,Jane,Chebet,jane.chebet68@example.com,Machakos,Corporate,2024-08-01
+69,Kevin,Njoroge,kevin.njoroge69@example.com,Meru,Consumer,2024-11-16
+70,Kevin,Kimani,kevin.kimani70@example.com,Eldoret,Corporate,2023-05-15
+71,David,Otieno,david.otieno71@example.com,Nyeri,Small Business,2023-01-10
+72,Joseph,Ochieng,joseph.ochieng72@example.com,Machakos,Consumer,2023-03-17
+73,Samuel,Kariuki,samuel.kariuki73@example.com,Meru,Consumer,2023-05-16
+74,Faith,Kipchoge,faith.kipchoge74@example.com,Kisumu,Corporate,2023-10-19
+75,Irene,Onyango,irene.onyango75@example.com,Machakos,Consumer,2024-09-18
+76,Irene,Onyango,irene.onyango76@example.com,Mombasa,Consumer,2025-08-12
+77,Kevin,Ochieng,kevin.ochieng77@example.com,Mombasa,Small Business,2025-06-30
+78,Irene,Kiptoo,irene.kiptoo78@example.com,Eldoret,Small Business,2023-10-06
+79,Brian,Maina,brian.maina79@example.com,Eldoret,Small Business,2023-07-28
+80,Lucy,Kariuki,lucy.kariuki80@example.com,Nairobi,Consumer,2025-07-16
+81,Jane,Kariuki,jane.kariuki81@example.com,Nairobi,Corporate,2023-02-15
+82,Daniel,Kariuki,daniel.kariuki82@example.com,Nyeri,Small Business,2023-06-15
+83,Jane,Koech,jane.koech83@example.com,Mombasa,Consumer,2023-01-10
+84,Daniel,Koech,daniel.koech84@example.com,Meru,Small Business,2023-02-06
+85,Irene,Kiptoo,irene.kiptoo85@example.com,Kisumu,Consumer,2024-03-16
+86,Mercy,Kipchoge,mercy.kipchoge86@example.com,Nairobi,Corporate,2025-07-09
+87,Brian,Mutua,brian.mutua87@example.com,Mombasa,Corporate,2024-11-13
+88,Irene,Achieng,irene.achieng88@example.com,Naivasha,Small Business,2025-09-24
+89,Daniel,Mutua,daniel.mutua89@example.com,Kisumu,Consumer,2025-06-04
+90,Jane,Mwangi,jane.mwangi90@example.com,Meru,Corporate,2023-07-03
+91,Faith,Kariuki,faith.kariuki91@example.com,Mombasa,Corporate,2023-06-13
+92,Mary,Muriuki,mary.muriuki92@example.com,Nakuru,Corporate,2023-08-16
+93,Anne,Onyango,anne.onyango93@example.com,Nakuru,Consumer,2025-04-20
+94,James,Njoroge,james.njoroge94@example.com,Meru,Corporate,2024-02-13
+95,John,Kariuki,john.kariuki95@example.com,Machakos,Corporate,2023-12-26
+96,Irene,Maina,irene.maina96@example.com,Nairobi,Consumer,2025-08-19
+97,Kevin,Wanjiku,kevin.wanjiku97@example.com,Eldoret,Consumer,2024-08-17
+98,Patricia,Mbugua,patricia.mbugua98@example.com,Meru,Small Business,2024-03-20
+99,David,Achieng,david.achieng99@example.com,Machakos,Consumer,2024-09-12
+100,Peter,Chebet,peter.chebet100@example.com,Eldoret,Consumer,2023-07-14
+101,Jane,Mwangi,jane.mwangi101@example.com,Machakos,Small Business,2024-06-16
+102,Brian,Kipchoge,brian.kipchoge102@example.com,Mombasa,Small Business,2024-03-17
+103,David,Mbugua,david.mbugua103@example.com,Mombasa,Small Business,2023-11-18
+104,Mercy,Odhiambo,mercy.odhiambo104@example.com,Thika,Corporate,2023-11-13
+105,Peter,Onyango,peter.onyango105@example.com,Kisumu,Consumer,2024-07-21
+106,Jane,Kimani,jane.kimani106@example.com,Kisumu,Small Business,2024-11-24
+107,Joseph,Onyango,joseph.onyango107@example.com,Machakos,Consumer,2024-02-20
+108,Mercy,Onyango,mercy.onyango108@example.com,Thika,Small Business,2023-08-04
+109,Esther,Maina,esther.maina109@example.com,Nyeri,Corporate,2024-04-21
+110,Brian,Odhiambo,brian.odhiambo110@example.com,Kisumu,Small Business,2024-04-29
+111,John,Onyango,john.onyango111@example.com,Naivasha,Corporate,2024-06-11
+112,John,Mutua,john.mutua112@example.com,Eldoret,Consumer,2024-11-19
+113,Brian,Kiptoo,brian.kiptoo113@example.com,Nairobi,Consumer,2023-01-26
+114,Lucy,Mbugua,lucy.mbugua114@example.com,Mombasa,Corporate,2025-05-20
+115,Jane,Chebet,jane.chebet115@example.com,Thika,Corporate,2023-07-19
+116,Peter,Mutua,peter.mutua116@example.com,Nairobi,Consumer,2023-06-01
+117,Jane,Mutua,jane.mutua117@example.com,Machakos,Corporate,2023-06-30
+118,Mary,Koech,mary.koech118@example.com,Mombasa,Corporate,2023-09-13
+119,Daniel,Wambui,daniel.wambui119@example.com,Machakos,Small Business,2024-11-14
+120,Esther,Maina,esther.maina120@example.com,Nyeri,Small Business,2025-08-30
+121,Samuel,Achieng,samuel.achieng121@example.com,Machakos,Corporate,2025-04-30
+122,Grace,Muriuki,grace.muriuki122@example.com,Eldoret,Consumer,2024-04-05
+123,Kevin,Odhiambo,kevin.odhiambo123@example.com,Nakuru,Corporate,2024-05-11
+124,Michael,Otieno,michael.otieno124@example.com,Eldoret,Consumer,2024-12-31
+125,Kevin,Maina,kevin.maina125@example.com,Machakos,Consumer,2023-11-24
+126,Daniel,Kiptoo,daniel.kiptoo126@example.com,Thika,Small Business,2023-08-25
+127,Daniel,Njoroge,daniel.njoroge127@example.com,Thika,Corporate,2023-03-07
+128,David,Koech,david.koech128@example.com,Thika,Consumer,2024-04-22
+129,Brian,Achieng,brian.achieng129@example.com,Naivasha,Small Business,2024-02-03
+130,James,Chebet,james.chebet130@example.com,Nyeri,Consumer,2024-01-25
+131,Anne,Onyango,anne.onyango131@example.com,Thika,Corporate,2025-02-10
+132,Irene,Koech,irene.koech132@example.com,Naivasha,Consumer,2025-03-30
+133,Lucy,Mutua,lucy.mutua133@example.com,Thika,Corporate,2023-10-07
+134,James,Kimani,james.kimani134@example.com,Thika,Small Business,2023-12-11
+135,Grace,Wambui,grace.wambui135@example.com,Kisumu,Small Business,2025-07-30
+136,Irene,Mwangi,irene.mwangi136@example.com,Thika,Small Business,2025-07-17
+137,Joseph,Mwangi,joseph.mwangi137@example.com,Thika,Consumer,2023-03-27
+138,Michael,Wanjiku,michael.wanjiku138@example.com,Eldoret,Corporate,2023-02-21
+139,David,Njoroge,david.njoroge139@example.com,Meru,Corporate,2024-04-10
+140,Peter,Kariuki,peter.kariuki140@example.com,Thika,Corporate,2025-02-09
+141,John,Muriuki,john.muriuki141@example.com,Machakos,Consumer,2023-01-20
+142,Anne,Mutua,anne.mutua142@example.com,Mombasa,Small Business,2024-10-27
+143,Mary,Mwangi,mary.mwangi143@example.com,Nakuru,Consumer,2025-08-30
+144,James,Mbugua,james.mbugua144@example.com,Nakuru,Consumer,2023-06-06
+145,Lucy,Ochieng,lucy.ochieng145@example.com,Nakuru,Corporate,2024-07-31
+146,Kevin,Kipchoge,kevin.kipchoge146@example.com,Naivasha,Small Business,2023-06-21
+147,Patricia,Wanjiku,patricia.wanjiku147@example.com,Eldoret,Consumer,2025-09-14
+148,Joseph,Mwangi,joseph.mwangi148@example.com,Eldoret,Small Business,2025-08-09
+149,Peter,Kimani,peter.kimani149@example.com,Nakuru,Consumer,2025-08-22
+150,Joseph,Mutua,joseph.mutua150@example.com,Eldoret,Small Business,2023-04-15
+151,Esther,Ochieng,esther.ochieng151@example.com,Naivasha,Consumer,2025-03-26
+152,Anne,Koech,anne.koech152@example.com,Meru,Consumer,2024-03-14
+153,Samuel,Maina,samuel.maina153@example.com,Thika,Corporate,2023-01-13
+154,Patricia,Achieng,patricia.achieng154@example.com,Meru,Small Business,2025-09-10
+155,Michael,Kiptoo,michael.kiptoo155@example.com,Kisumu,Small Business,2024-03-21
+156,Samuel,Kariuki,samuel.kariuki156@example.com,Machakos,Corporate,2024-09-22
+157,Michael,Achieng,michael.achieng157@example.com,Naivasha,Corporate,2025-04-25
+158,David,Mutua,david.mutua158@example.com,Mombasa,Corporate,2025-04-30
+159,Michael,Mutua,michael.mutua159@example.com,Nyeri,Small Business,2025-02-07
+160,Esther,Kimani,esther.kimani160@example.com,Nairobi,Corporate,2023-12-11
+161,David,Wanjiku,david.wanjiku161@example.com,Nakuru,Corporate,2024-05-14
+162,Kevin,Maina,kevin.maina162@example.com,Naivasha,Small Business,2023-10-14
+163,Kevin,Koech,kevin.koech163@example.com,Machakos,Consumer,2023-01-11
+164,John,Mutua,john.mutua164@example.com,Thika,Corporate,2025-01-07
+165,Irene,Mutua,irene.mutua165@example.com,Nyeri,Small Business,2024-12-08
+166,Lucy,Wambui,lucy.wambui166@example.com,Nairobi,Consumer,2025-03-22
+167,Mercy,Mutua,mercy.mutua167@example.com,Nakuru,Corporate,2024-02-19
+168,Joseph,Kipchoge,joseph.kipchoge168@example.com,Machakos,Small Business,2024-04-29
+169,Anne,Achieng,anne.achieng169@example.com,Machakos,Corporate,2025-02-02
+170,Anne,Wambui,anne.wambui170@example.com,Eldoret,Corporate,2023-10-05
+171,Faith,Ochieng,faith.ochieng171@example.com,Nakuru,Corporate,2025-01-08
+172,Patricia,Koech,patricia.koech172@example.com,Kisumu,Consumer,2025-08-31
+173,Brian,Muriuki,brian.muriuki173@example.com,Naivasha,Small Business,2023-10-11
+174,Esther,Onyango,esther.onyango174@example.com,Nakuru,Corporate,2023-04-13
+175,Faith,Kipchoge,faith.kipchoge175@example.com,Eldoret,Consumer,2023-07-03
+176,Irene,Kiptoo,irene.kiptoo176@example.com,Nairobi,Consumer,2023-10-08
+177,Irene,Onyango,irene.onyango177@example.com,Kisumu,Small Business,2024-12-15
+178,Lucy,Ochieng,lucy.ochieng178@example.com,Nairobi,Small Business,2025-06-12
+179,Mercy,Muriuki,mercy.muriuki179@example.com,Nyeri,Corporate,2024-05-05
+180,Grace,Kamau,grace.kamau180@example.com,Nyeri,Consumer,2023-09-16
+181,John,Kimani,john.kimani181@example.com,Mombasa,Small Business,2024-05-18
+182,Mary,Kiptoo,mary.kiptoo182@example.com,Naivasha,Corporate,2023-06-02
+183,John,Mutua,john.mutua183@example.com,Machakos,Corporate,2023-05-02
+184,Esther,Mbugua,esther.mbugua184@example.com,Naivasha,Consumer,2025-03-20
+185,Samuel,Kimani,samuel.kimani185@example.com,Nyeri,Corporate,2024-04-06
+186,Joseph,Achieng,joseph.achieng186@example.com,Naivasha,Small Business,2023-11-09
+187,Mary,Mbugua,mary.mbugua187@example.com,Mombasa,Consumer,2025-09-10
+188,Brian,Kariuki,brian.kariuki188@example.com,Mombasa,Consumer,2024-11-07
+189,Faith,Wanjiku,faith.wanjiku189@example.com,Mombasa,Consumer,2024-07-19
+190,James,Achieng,james.achieng190@example.com,Naivasha,Corporate,2024-04-06
+191,Mercy,Kamau,mercy.kamau191@example.com,Eldoret,Small Business,2023-08-26
+192,Mercy,Wambui,mercy.wambui192@example.com,Nakuru,Corporate,2023-03-14
+193,Joseph,Njoroge,joseph.njoroge193@example.com,Mombasa,Small Business,2024-03-11
+194,Faith,Kiptoo,faith.kiptoo194@example.com,Eldoret,Consumer,2025-07-19
+195,John,Kamau,john.kamau195@example.com,Eldoret,Small Business,2023-06-19
+196,Joseph,Onyango,joseph.onyango196@example.com,Mombasa,Corporate,2024-03-25
+197,Mercy,Kimani,mercy.kimani197@example.com,Eldoret,Small Business,2025-08-23
+198,Irene,Muriuki,irene.muriuki198@example.com,Mombasa,Small Business,2024-03-24
+199,Mary,Achieng,mary.achieng199@example.com,Meru,Small Business,2025-01-22
+200,Kevin,Mwangi,kevin.mwangi200@example.com,Nakuru,Small Business,2023-04-04
+201,Joseph,Chebet,joseph.chebet201@example.com,Nairobi,Small Business,2025-08-31
+202,Kevin,Chebet,kevin.chebet202@example.com,Kisumu,Corporate,2023-02-11
+203,Samuel,Wambui,samuel.wambui203@example.com,Eldoret,Consumer,2025-07-27
+204,Joseph,Achieng,joseph.achieng204@example.com,Nyeri,Consumer,2024-10-12
+205,Lucy,Kipchoge,lucy.kipchoge205@example.com,Meru,Corporate,2024-02-23
+206,Patricia,Wanjiku,patricia.wanjiku206@example.com,Thika,Small Business,2023-12-04
+207,Lucy,Onyango,lucy.onyango207@example.com,Thika,Small Business,2024-11-09
+208,Mary,Wambui,mary.wambui208@example.com,Meru,Corporate,2023-04-01
+209,David,Ochieng,david.ochieng209@example.com,Thika,Small Business,2025-09-20
+210,James,Koech,james.koech210@example.com,Thika,Consumer,2024-04-18
+211,Brian,Odhiambo,brian.odhiambo211@example.com,Naivasha,Corporate,2024-01-06
+212,Michael,Kamau,michael.kamau212@example.com,Eldoret,Small Business,2023-07-28
+213,Daniel,Onyango,daniel.onyango213@example.com,Nyeri,Consumer,2024-03-24
+214,James,Mbugua,james.mbugua214@example.com,Nakuru,Small Business,2025-03-29
+215,Grace,Onyango,grace.onyango215@example.com,Nairobi,Small Business,2024-07-18
+216,Jane,Otieno,jane.otieno216@example.com,Mombasa,Corporate,2023-08-19
+217,Patricia,Kiptoo,patricia.kiptoo217@example.com,Eldoret,Small Business,2024-05-25
+218,Kevin,Achieng,kevin.achieng218@example.com,Nyeri,Corporate,2025-05-04
+219,Faith,Wambui,faith.wambui219@example.com,Kisumu,Corporate,2024-07-18
+220,Brian,Mbugua,brian.mbugua220@example.com,Kisumu,Consumer,2024-06-04
+221,Kevin,Achieng,kevin.achieng221@example.com,Machakos,Corporate,2023-12-15
+222,James,Onyango,james.onyango222@example.com,Eldoret,Small Business,2025-01-13
+223,Joseph,Muriuki,joseph.muriuki223@example.com,Kisumu,Corporate,2025-06-05
+224,Irene,Muriuki,irene.muriuki224@example.com,Meru,Small Business,2023-12-20
+225,Irene,Kimani,irene.kimani225@example.com,Meru,Consumer,2024-04-11
+226,Faith,Chebet,faith.chebet226@example.com,Nakuru,Corporate,2024-01-28
+227,Mary,Maina,mary.maina227@example.com,Nyeri,Small Business,2025-02-01
+228,Peter,Kimani,peter.kimani228@example.com,Kisumu,Corporate,2024-11-10
+229,Mary,Kiptoo,mary.kiptoo229@example.com,Naivasha,Corporate,2024-05-29
+230,Patricia,Wambui,patricia.wambui230@example.com,Machakos,Corporate,2023-04-13
+231,James,Kiptoo,james.kiptoo231@example.com,Kisumu,Consumer,2024-02-24
+232,Lucy,Kariuki,lucy.kariuki232@example.com,Naivasha,Small Business,2023-12-13
+233,Peter,Otieno,peter.otieno233@example.com,Meru,Small Business,2025-05-22
+234,Irene,Kimani,irene.kimani234@example.com,Meru,Small Business,2025-09-04
+235,Lucy,Koech,lucy.koech235@example.com,Naivasha,Consumer,2023-02-06
+236,Faith,Onyango,faith.onyango236@example.com,Mombasa,Corporate,2023-08-21
+237,Patricia,Ochieng,patricia.ochieng237@example.com,Kisumu,Small Business,2024-03-30
+238,Mercy,Mwangi,mercy.mwangi238@example.com,Meru,Consumer,2023-02-17
+239,Mercy,Kipchoge,mercy.kipchoge239@example.com,Thika,Consumer,2024-01-19
+240,Faith,Odhiambo,faith.odhiambo240@example.com,Naivasha,Small Business,2024-02-26
+241,Grace,Wanjiku,grace.wanjiku241@example.com,Mombasa,Small Business,2023-06-29
+242,Peter,Mbugua,peter.mbugua242@example.com,Nakuru,Corporate,2024-11-30
+243,Joseph,Kiptoo,joseph.kiptoo243@example.com,Nyeri,Small Business,2023-08-26
+244,Kevin,Wambui,kevin.wambui244@example.com,Nairobi,Corporate,2023-09-19
+245,Mercy,Koech,mercy.koech245@example.com,Mombasa,Corporate,2023-06-11
+246,Anne,Chebet,anne.chebet246@example.com,Thika,Small Business,2023-11-03
+247,Kevin,Wambui,kevin.wambui247@example.com,Eldoret,Consumer,2025-05-15
+248,Peter,Muriuki,peter.muriuki248@example.com,Nakuru,Corporate,2023-04-20
+249,Joseph,Kipchoge,joseph.kipchoge249@example.com,Eldoret,Small Business,2024-08-11
+250,Mercy,Mwangi,mercy.mwangi250@example.com,Thika,Corporate,2025-04-29
+251,James,Chebet,james.chebet251@example.com,Nairobi,Small Business,2025-06-04
+252,Lucy,Onyango,lucy.onyango252@example.com,Nakuru,Small Business,2025-03-05
+253,Anne,Mutua,anne.mutua253@example.com,Nakuru,Small Business,2024-10-13
+254,Kevin,Kiptoo,kevin.kiptoo254@example.com,Mombasa,Small Business,2024-10-05
+255,Mary,Onyango,mary.onyango255@example.com,Nyeri,Consumer,2025-03-18
+256,Joseph,Kipchoge,joseph.kipchoge256@example.com,Kisumu,Consumer,2025-01-19
+257,Mercy,Maina,mercy.maina257@example.com,Thika,Consumer,2025-02-04
+258,Brian,Kiptoo,brian.kiptoo258@example.com,Machakos,Corporate,2025-03-16
+259,Samuel,Odhiambo,samuel.odhiambo259@example.com,Eldoret,Consumer,2025-07-24
+260,Kevin,Muriuki,kevin.muriuki260@example.com,Eldoret,Small Business,2025-09-17
+261,David,Ochieng,david.ochieng261@example.com,Mombasa,Consumer,2024-04-24
+262,Faith,Kimani,faith.kimani262@example.com,Machakos,Corporate,2025-09-17
+263,John,Kimani,john.kimani263@example.com,Eldoret,Small Business,2023-01-15
+264,Patricia,Wambui,patricia.wambui264@example.com,Eldoret,Small Business,2024-01-13
+265,Peter,Kipchoge,peter.kipchoge265@example.com,Nakuru,Corporate,2023-04-21
+266,James,Mbugua,james.mbugua266@example.com,Machakos,Corporate,2025-06-24
+267,Esther,Mutua,esther.mutua267@example.com,Mombasa,Small Business,2024-10-25
+268,Michael,Onyango,michael.onyango268@example.com,Thika,Consumer,2024-10-26
+269,Daniel,Kamau,daniel.kamau269@example.com,Nairobi,Corporate,2025-08-26
+270,Lucy,Ochieng,lucy.ochieng270@example.com,Nakuru,Small Business,2023-04-10
+271,Daniel,Kimani,daniel.kimani271@example.com,Meru,Small Business,2024-04-09
+272,Irene,Achieng,irene.achieng272@example.com,Kisumu,Corporate,2024-08-24
+273,Patricia,Muriuki,patricia.muriuki273@example.com,Thika,Corporate,2024-09-22
+274,Mary,Kipchoge,mary.kipchoge274@example.com,Nyeri,Corporate,2023-08-11
+275,Faith,Kipchoge,faith.kipchoge275@example.com,Meru,Small Business,2023-04-12
+276,Anne,Kamau,anne.kamau276@example.com,Eldoret,Consumer,2024-02-12
+277,Patricia,Wambui,patricia.wambui277@example.com,Nakuru,Small Business,2023-04-04
+278,Esther,Mwangi,esther.mwangi278@example.com,Meru,Consumer,2023-02-21
+279,Daniel,Chebet,daniel.chebet279@example.com,Mombasa,Small Business,2023-07-30
+280,Brian,Chebet,brian.chebet280@example.com,Nakuru,Corporate,2023-08-10
+281,Daniel,Mbugua,daniel.mbugua281@example.com,Eldoret,Consumer,2023-01-03
+282,Daniel,Koech,daniel.koech282@example.com,Kisumu,Consumer,2023-09-14
+283,James,Kiptoo,james.kiptoo283@example.com,Meru,Consumer,2023-01-16
+284,Joseph,Maina,joseph.maina284@example.com,Kisumu,Corporate,2023-01-17
+285,Mary,Kiptoo,mary.kiptoo285@example.com,Thika,Small Business,2025-01-29
+286,Patricia,Otieno,patricia.otieno286@example.com,Nyeri,Corporate,2024-05-02
+287,Samuel,Chebet,samuel.chebet287@example.com,Nyeri,Small Business,2023-04-22
+288,Faith,Mbugua,faith.mbugua288@example.com,Machakos,Corporate,2023-02-14
+289,Michael,Mwangi,michael.mwangi289@example.com,Nyeri,Corporate,2023-03-04
+290,Jane,Ochieng,jane.ochieng290@example.com,Nyeri,Consumer,2024-05-17
+291,John,Maina,john.maina291@example.com,Kisumu,Consumer,2024-09-14
+292,Daniel,Kariuki,daniel.kariuki292@example.com,Naivasha,Small Business,2024-10-01
+293,David,Kimani,david.kimani293@example.com,Machakos,Corporate,2024-09-03
+294,Michael,Odhiambo,michael.odhiambo294@example.com,Thika,Consumer,2024-09-11
+295,Patricia,Koech,patricia.koech295@example.com,Nakuru,Corporate,2025-01-08
+296,Michael,Mutua,michael.mutua296@example.com,Meru,Corporate,2024-02-28
+297,Peter,Achieng,peter.achieng297@example.com,Mombasa,Corporate,2025-01-17
+298,Jane,Maina,jane.maina298@example.com,Eldoret,Corporate,2024-11-12
+299,Daniel,Muriuki,daniel.muriuki299@example.com,Mombasa,Consumer,2023-03-10
+300,John,Achieng,john.achieng300@example.com,Meru,Consumer,2023-04-09

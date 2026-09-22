@@ -1,0 +1,1501 @@
+order_id,customer_id,order_date,order_status,payment_method,shipping_method
+1,42,2025-08-19,Cancelled,Card,Express
+2,159,2025-11-02,Cancelled,Cash,Standard
+3,44,2024-11-13,Processing,Cash,Pickup
+4,169,2024-05-10,Cancelled,M-Pesa,Pickup
+5,217,2025-06-04,Completed,M-Pesa,Express
+6,159,2024-07-03,Completed,Bank Transfer,Express
+7,99,2024-08-19,Completed,Card,Standard
+8,152,2024-04-13,Processing,M-Pesa,Pickup
+9,173,2025-09-24,Completed,Cash,Standard
+10,84,2024-07-04,Returned,Card,Pickup
+11,225,2024-02-14,Shipped,Bank Transfer,Pickup
+12,122,2025-03-30,Processing,Bank Transfer,Pickup
+13,230,2024-08-27,Processing,Card,Express
+14,241,2024-07-17,Completed,Cash,Express
+15,145,2025-01-26,Processing,Cash,Standard
+16,103,2025-09-11,Completed,Bank Transfer,Standard
+17,247,2025-01-15,Processing,M-Pesa,Pickup
+18,265,2024-05-07,Completed,M-Pesa,Standard
+19,140,2025-04-05,Processing,Card,Express
+20,47,2024-08-15,Returned,Cash,Express
+21,14,2025-02-28,Completed,Cash,Pickup
+22,192,2024-08-29,Shipped,M-Pesa,Express
+23,115,2024-01-29,Completed,M-Pesa,Pickup
+24,172,2024-05-29,Completed,M-Pesa,Express
+25,242,2025-12-13,Returned,Card,Pickup
+26,241,2025-04-04,Processing,M-Pesa,Standard
+27,10,2024-09-19,Completed,Card,Pickup
+28,271,2025-03-09,Completed,Bank Transfer,Standard
+29,155,2024-05-04,Completed,Card,Express
+30,235,2024-03-05,Completed,Cash,Pickup
+31,275,2024-01-17,Cancelled,Card,Pickup
+32,74,2024-10-25,Shipped,M-Pesa,Pickup
+33,181,2024-09-03,Processing,Cash,Standard
+34,44,2025-06-20,Completed,M-Pesa,Pickup
+35,279,2025-06-03,Returned,M-Pesa,Express
+36,241,2024-02-14,Cancelled,Cash,Express
+37,130,2024-01-17,Completed,M-Pesa,Express
+38,124,2025-11-03,Cancelled,M-Pesa,Pickup
+39,171,2024-05-16,Completed,Bank Transfer,Pickup
+40,174,2025-10-20,Completed,Cash,Pickup
+41,246,2025-10-08,Completed,Card,Standard
+42,235,2024-02-07,Completed,Card,Standard
+43,103,2024-02-12,Completed,Bank Transfer,Pickup
+44,204,2025-07-10,Shipped,Bank Transfer,Standard
+45,98,2024-10-19,Completed,M-Pesa,Pickup
+46,170,2024-10-06,Completed,Bank Transfer,Express
+47,205,2025-03-26,Shipped,Bank Transfer,Standard
+48,255,2025-12-09,Shipped,Bank Transfer,Pickup
+49,137,2024-03-25,Cancelled,Cash,Standard
+50,221,2025-09-08,Returned,Card,Pickup
+51,151,2024-11-24,Completed,M-Pesa,Express
+52,152,2024-11-09,Shipped,Cash,Standard
+53,228,2024-12-25,Shipped,M-Pesa,Pickup
+54,181,2025-09-21,Shipped,Bank Transfer,Pickup
+55,30,2024-03-17,Cancelled,Cash,Express
+56,263,2025-11-26,Completed,M-Pesa,Standard
+57,225,2024-02-05,Completed,M-Pesa,Standard
+58,188,2025-01-05,Shipped,M-Pesa,Pickup
+59,79,2025-11-26,Shipped,Bank Transfer,Express
+60,228,2024-03-19,Processing,Card,Pickup
+61,188,2025-02-11,Completed,Bank Transfer,Standard
+62,59,2024-01-27,Cancelled,Card,Express
+63,266,2025-01-31,Processing,M-Pesa,Express
+64,134,2025-12-21,Shipped,Card,Pickup
+65,147,2025-12-11,Shipped,Card,Standard
+66,70,2024-03-16,Shipped,Card,Pickup
+67,228,2024-03-30,Returned,Bank Transfer,Pickup
+68,178,2025-12-27,Completed,Bank Transfer,Express
+69,81,2025-12-29,Cancelled,Card,Express
+70,261,2024-08-17,Completed,Card,Standard
+71,122,2025-05-20,Completed,Bank Transfer,Pickup
+72,294,2025-01-12,Shipped,Card,Pickup
+73,45,2024-03-08,Completed,Cash,Pickup
+74,246,2025-06-22,Shipped,Cash,Pickup
+75,38,2024-05-08,Completed,M-Pesa,Express
+76,239,2025-11-27,Processing,Bank Transfer,Standard
+77,283,2025-10-17,Processing,Card,Standard
+78,222,2025-05-29,Returned,M-Pesa,Standard
+79,266,2024-06-05,Completed,Card,Standard
+80,166,2025-12-27,Completed,Bank Transfer,Pickup
+81,146,2024-03-21,Completed,Card,Pickup
+82,283,2024-10-08,Completed,Bank Transfer,Pickup
+83,274,2024-04-05,Processing,Card,Pickup
+84,298,2024-06-06,Completed,Bank Transfer,Pickup
+85,22,2024-01-30,Completed,M-Pesa,Pickup
+86,296,2024-09-28,Cancelled,Card,Pickup
+87,214,2025-09-24,Cancelled,M-Pesa,Express
+88,280,2024-10-23,Cancelled,Bank Transfer,Express
+89,126,2025-12-02,Shipped,Bank Transfer,Express
+90,38,2025-12-06,Completed,Card,Express
+91,213,2025-05-10,Shipped,Card,Express
+92,74,2024-11-16,Returned,Bank Transfer,Pickup
+93,177,2025-02-12,Completed,Bank Transfer,Pickup
+94,288,2024-04-18,Completed,Card,Express
+95,63,2024-09-30,Shipped,Card,Standard
+96,50,2024-02-21,Completed,Cash,Pickup
+97,215,2024-09-11,Returned,Card,Express
+98,296,2024-11-16,Completed,Card,Express
+99,264,2025-04-23,Shipped,Bank Transfer,Express
+100,12,2024-04-02,Shipped,Cash,Standard
+101,111,2025-08-20,Completed,M-Pesa,Standard
+102,145,2025-05-21,Processing,Cash,Express
+103,275,2024-01-09,Returned,M-Pesa,Express
+104,69,2024-09-27,Cancelled,Bank Transfer,Express
+105,188,2024-02-16,Shipped,M-Pesa,Pickup
+106,288,2024-07-18,Completed,Bank Transfer,Standard
+107,198,2025-05-31,Shipped,Bank Transfer,Pickup
+108,61,2024-05-11,Completed,Cash,Express
+109,174,2025-07-25,Completed,Card,Standard
+110,261,2025-02-15,Processing,M-Pesa,Standard
+111,20,2024-05-20,Cancelled,Bank Transfer,Express
+112,266,2025-04-12,Completed,Card,Express
+113,164,2024-06-15,Shipped,Bank Transfer,Pickup
+114,173,2025-06-03,Returned,Cash,Pickup
+115,289,2024-11-02,Shipped,M-Pesa,Express
+116,170,2025-11-20,Completed,Cash,Pickup
+117,158,2025-12-05,Cancelled,M-Pesa,Pickup
+118,243,2024-09-28,Cancelled,Card,Pickup
+119,27,2025-08-20,Shipped,Card,Pickup
+120,195,2024-05-31,Returned,Card,Standard
+121,294,2025-12-18,Completed,Card,Standard
+122,226,2024-11-17,Shipped,Card,Express
+123,105,2025-02-24,Processing,Cash,Pickup
+124,32,2025-12-23,Completed,Card,Pickup
+125,167,2025-11-09,Shipped,Cash,Express
+126,89,2025-04-15,Processing,Bank Transfer,Pickup
+127,182,2025-11-23,Returned,Bank Transfer,Pickup
+128,248,2024-07-15,Completed,Bank Transfer,Pickup
+129,153,2024-08-18,Completed,Bank Transfer,Pickup
+130,107,2025-12-07,Cancelled,Cash,Express
+131,246,2024-12-23,Processing,Bank Transfer,Express
+132,63,2025-08-10,Cancelled,Cash,Express
+133,177,2024-05-29,Completed,M-Pesa,Express
+134,41,2024-12-20,Shipped,Bank Transfer,Pickup
+135,246,2024-08-07,Completed,Bank Transfer,Pickup
+136,140,2024-05-20,Completed,Card,Standard
+137,26,2025-11-16,Processing,Card,Pickup
+138,120,2024-02-23,Completed,Cash,Express
+139,242,2024-04-12,Cancelled,Card,Standard
+140,282,2024-06-10,Shipped,Cash,Express
+141,103,2024-10-21,Completed,Bank Transfer,Pickup
+142,31,2024-04-01,Cancelled,Card,Pickup
+143,20,2024-06-28,Shipped,Card,Standard
+144,204,2025-05-22,Completed,Bank Transfer,Standard
+145,5,2024-11-01,Processing,M-Pesa,Express
+146,146,2025-04-10,Cancelled,Cash,Standard
+147,259,2025-04-24,Completed,Card,Standard
+148,170,2024-06-15,Cancelled,Cash,Pickup
+149,132,2024-07-09,Completed,Bank Transfer,Express
+150,291,2025-11-21,Returned,Card,Standard
+151,208,2025-03-13,Processing,Bank Transfer,Standard
+152,206,2025-11-16,Completed,Card,Standard
+153,245,2024-11-27,Completed,M-Pesa,Express
+154,197,2024-08-29,Shipped,Bank Transfer,Express
+155,155,2025-08-19,Cancelled,M-Pesa,Express
+156,185,2025-12-10,Completed,M-Pesa,Pickup
+157,61,2025-04-21,Completed,Card,Express
+158,258,2025-12-21,Returned,Bank Transfer,Pickup
+159,61,2025-10-16,Completed,Bank Transfer,Pickup
+160,114,2024-08-12,Completed,Cash,Standard
+161,233,2025-09-12,Completed,Cash,Pickup
+162,282,2025-04-27,Returned,Card,Standard
+163,42,2025-06-22,Shipped,Bank Transfer,Standard
+164,289,2024-04-24,Completed,Card,Pickup
+165,275,2024-06-02,Completed,Bank Transfer,Pickup
+166,227,2024-04-29,Cancelled,Card,Pickup
+167,299,2025-05-15,Completed,Cash,Standard
+168,233,2024-05-15,Processing,Cash,Express
+169,289,2024-02-29,Processing,Cash,Pickup
+170,158,2024-01-23,Shipped,Bank Transfer,Standard
+171,112,2025-08-15,Completed,M-Pesa,Express
+172,177,2025-12-18,Completed,M-Pesa,Standard
+173,242,2024-02-02,Completed,Cash,Standard
+174,70,2025-10-18,Cancelled,Cash,Express
+175,196,2025-04-04,Returned,Cash,Express
+176,42,2025-11-30,Cancelled,Card,Pickup
+177,179,2024-05-01,Completed,Cash,Pickup
+178,66,2024-08-16,Returned,M-Pesa,Standard
+179,153,2025-04-19,Cancelled,Cash,Pickup
+180,195,2024-08-23,Completed,Cash,Express
+181,80,2024-10-09,Completed,M-Pesa,Standard
+182,215,2025-09-21,Returned,M-Pesa,Standard
+183,106,2024-03-09,Completed,M-Pesa,Express
+184,25,2024-09-07,Cancelled,M-Pesa,Express
+185,225,2024-08-27,Processing,Card,Standard
+186,72,2025-05-30,Completed,Card,Pickup
+187,295,2024-11-22,Processing,Bank Transfer,Standard
+188,155,2024-05-26,Cancelled,Card,Express
+189,154,2024-10-08,Completed,Card,Pickup
+190,219,2025-07-23,Shipped,M-Pesa,Express
+191,196,2025-06-21,Completed,Cash,Express
+192,77,2024-11-03,Shipped,Card,Pickup
+193,243,2024-09-03,Returned,Card,Express
+194,74,2025-04-19,Completed,Cash,Express
+195,286,2025-06-26,Completed,Cash,Standard
+196,131,2024-07-27,Completed,M-Pesa,Express
+197,190,2024-04-04,Processing,Card,Standard
+198,138,2025-01-21,Cancelled,M-Pesa,Standard
+199,97,2025-08-24,Cancelled,Card,Express
+200,107,2024-12-06,Completed,M-Pesa,Standard
+201,98,2024-04-30,Cancelled,Cash,Standard
+202,105,2025-02-10,Completed,Bank Transfer,Express
+203,195,2025-04-22,Processing,Bank Transfer,Express
+204,134,2025-01-03,Processing,Cash,Express
+205,51,2025-04-25,Returned,Bank Transfer,Standard
+206,190,2024-11-16,Shipped,M-Pesa,Pickup
+207,114,2024-05-29,Completed,Bank Transfer,Pickup
+208,300,2025-08-16,Cancelled,Cash,Express
+209,79,2024-07-19,Completed,Card,Express
+210,292,2024-09-08,Shipped,Bank Transfer,Express
+211,251,2025-10-19,Cancelled,Cash,Express
+212,87,2024-12-26,Completed,Card,Pickup
+213,280,2025-05-15,Completed,M-Pesa,Pickup
+214,18,2024-03-17,Returned,M-Pesa,Standard
+215,212,2024-05-20,Returned,Card,Standard
+216,78,2024-01-10,Completed,Cash,Express
+217,31,2025-09-24,Cancelled,Cash,Pickup
+218,250,2024-01-17,Completed,Cash,Standard
+219,9,2025-06-26,Cancelled,Bank Transfer,Pickup
+220,147,2024-01-18,Processing,Cash,Standard
+221,55,2024-04-08,Processing,Card,Standard
+222,99,2025-09-26,Processing,Bank Transfer,Express
+223,137,2025-02-10,Completed,Bank Transfer,Express
+224,236,2025-08-01,Completed,Card,Express
+225,42,2025-10-31,Returned,M-Pesa,Standard
+226,208,2025-01-23,Shipped,Cash,Standard
+227,5,2025-12-20,Completed,M-Pesa,Express
+228,223,2025-10-22,Returned,Bank Transfer,Pickup
+229,49,2025-06-24,Completed,Card,Standard
+230,291,2025-05-01,Completed,M-Pesa,Standard
+231,144,2025-07-10,Processing,M-Pesa,Standard
+232,162,2024-01-17,Completed,Card,Pickup
+233,204,2024-03-19,Completed,Card,Pickup
+234,124,2025-08-03,Returned,Cash,Pickup
+235,277,2024-12-05,Shipped,Card,Pickup
+236,41,2025-05-27,Cancelled,Bank Transfer,Standard
+237,51,2025-03-23,Completed,M-Pesa,Express
+238,204,2024-11-30,Completed,Bank Transfer,Express
+239,252,2024-08-21,Completed,Cash,Express
+240,96,2025-11-27,Processing,Cash,Standard
+241,152,2024-09-09,Cancelled,M-Pesa,Standard
+242,138,2024-06-06,Shipped,Card,Pickup
+243,200,2024-11-20,Completed,M-Pesa,Standard
+244,3,2024-11-11,Shipped,Bank Transfer,Express
+245,53,2024-05-15,Completed,Card,Express
+246,230,2025-07-24,Processing,Cash,Standard
+247,14,2024-04-01,Completed,M-Pesa,Pickup
+248,167,2025-01-29,Completed,Bank Transfer,Express
+249,199,2024-03-27,Cancelled,Card,Pickup
+250,267,2024-06-22,Cancelled,Cash,Standard
+251,72,2024-10-02,Completed,Bank Transfer,Express
+252,75,2024-03-05,Completed,Cash,Express
+253,216,2024-11-02,Shipped,M-Pesa,Express
+254,129,2024-09-09,Cancelled,Cash,Pickup
+255,101,2025-04-13,Completed,Card,Express
+256,4,2025-02-09,Completed,Cash,Express
+257,226,2024-12-08,Shipped,Card,Express
+258,165,2025-09-09,Cancelled,Card,Express
+259,161,2024-06-30,Shipped,Bank Transfer,Express
+260,252,2025-08-12,Returned,Card,Express
+261,193,2024-10-14,Returned,Cash,Express
+262,59,2025-07-31,Completed,Card,Pickup
+263,282,2024-01-28,Cancelled,Cash,Pickup
+264,108,2025-03-24,Returned,Bank Transfer,Pickup
+265,36,2025-02-22,Cancelled,Cash,Standard
+266,156,2024-09-04,Completed,Card,Pickup
+267,217,2025-01-21,Completed,Cash,Pickup
+268,246,2025-08-19,Shipped,Cash,Pickup
+269,19,2025-01-03,Cancelled,M-Pesa,Standard
+270,128,2025-11-04,Cancelled,Bank Transfer,Standard
+271,23,2025-07-30,Cancelled,Cash,Express
+272,221,2024-04-18,Completed,M-Pesa,Express
+273,114,2025-06-06,Cancelled,Card,Express
+274,192,2025-02-04,Shipped,Card,Express
+275,13,2025-05-09,Completed,Bank Transfer,Express
+276,44,2024-04-28,Returned,Card,Express
+277,160,2024-12-17,Shipped,Card,Pickup
+278,248,2024-12-22,Shipped,M-Pesa,Express
+279,232,2024-11-22,Completed,Bank Transfer,Standard
+280,59,2024-01-24,Returned,Bank Transfer,Pickup
+281,56,2025-11-24,Returned,Card,Pickup
+282,125,2025-06-12,Completed,Card,Express
+283,287,2025-03-12,Shipped,Card,Express
+284,95,2024-07-09,Cancelled,Cash,Express
+285,15,2025-09-20,Completed,Cash,Pickup
+286,220,2025-02-02,Completed,Card,Standard
+287,143,2025-12-21,Returned,M-Pesa,Pickup
+288,53,2025-07-03,Completed,Bank Transfer,Express
+289,101,2025-04-13,Completed,Bank Transfer,Pickup
+290,251,2025-06-24,Cancelled,Bank Transfer,Pickup
+291,199,2025-09-17,Shipped,M-Pesa,Express
+292,181,2025-04-13,Processing,Card,Pickup
+293,153,2025-09-21,Processing,M-Pesa,Pickup
+294,69,2024-11-16,Completed,Card,Express
+295,60,2024-07-06,Completed,Card,Pickup
+296,199,2025-03-04,Processing,Card,Pickup
+297,197,2025-03-09,Completed,Cash,Pickup
+298,276,2025-12-11,Cancelled,Card,Pickup
+299,86,2025-05-16,Completed,Card,Standard
+300,162,2025-04-06,Processing,M-Pesa,Express
+301,5,2025-05-11,Completed,Card,Express
+302,288,2025-06-01,Cancelled,Cash,Express
+303,252,2025-03-01,Cancelled,Cash,Express
+304,86,2024-03-25,Processing,M-Pesa,Standard
+305,150,2024-02-03,Completed,Card,Pickup
+306,148,2024-06-21,Returned,Cash,Pickup
+307,254,2025-07-16,Processing,M-Pesa,Pickup
+308,59,2024-10-01,Returned,Bank Transfer,Pickup
+309,22,2025-03-27,Processing,Card,Express
+310,53,2025-10-31,Returned,Card,Express
+311,17,2025-04-05,Completed,Bank Transfer,Standard
+312,225,2024-04-30,Returned,Card,Standard
+313,180,2025-12-28,Processing,Cash,Standard
+314,72,2024-07-30,Returned,Card,Standard
+315,292,2024-12-25,Processing,Bank Transfer,Pickup
+316,276,2024-06-21,Completed,Bank Transfer,Express
+317,294,2024-09-30,Returned,M-Pesa,Standard
+318,211,2024-03-01,Completed,Card,Pickup
+319,68,2024-09-12,Completed,Bank Transfer,Standard
+320,202,2025-05-16,Completed,Bank Transfer,Pickup
+321,213,2025-01-19,Shipped,M-Pesa,Pickup
+322,48,2025-02-16,Processing,Bank Transfer,Pickup
+323,189,2025-04-10,Shipped,Bank Transfer,Pickup
+324,2,2024-04-05,Cancelled,Cash,Pickup
+325,184,2024-03-05,Returned,Cash,Standard
+326,220,2024-08-04,Shipped,Bank Transfer,Express
+327,146,2024-12-11,Processing,Card,Pickup
+328,249,2024-12-17,Cancelled,M-Pesa,Standard
+329,51,2025-10-03,Returned,Cash,Standard
+330,64,2024-06-10,Shipped,Cash,Standard
+331,220,2024-07-26,Cancelled,Card,Pickup
+332,155,2024-06-11,Returned,Bank Transfer,Standard
+333,185,2024-09-13,Completed,Bank Transfer,Pickup
+334,85,2024-02-23,Shipped,Bank Transfer,Pickup
+335,120,2025-03-15,Cancelled,M-Pesa,Pickup
+336,49,2024-01-02,Completed,Cash,Standard
+337,68,2025-08-30,Completed,Cash,Standard
+338,5,2025-12-13,Completed,M-Pesa,Express
+339,68,2025-05-04,Completed,Card,Express
+340,46,2024-04-14,Completed,Bank Transfer,Express
+341,154,2024-05-20,Shipped,Card,Pickup
+342,74,2024-03-11,Processing,M-Pesa,Pickup
+343,85,2025-03-26,Completed,Card,Pickup
+344,78,2025-02-25,Processing,Cash,Standard
+345,45,2024-04-12,Completed,M-Pesa,Pickup
+346,197,2024-12-25,Shipped,Bank Transfer,Standard
+347,127,2024-10-10,Cancelled,M-Pesa,Standard
+348,284,2025-09-07,Processing,Bank Transfer,Pickup
+349,14,2025-11-05,Completed,Card,Pickup
+350,261,2024-07-12,Cancelled,Cash,Express
+351,28,2024-09-02,Shipped,Cash,Standard
+352,124,2025-05-26,Cancelled,M-Pesa,Pickup
+353,7,2025-01-04,Completed,Card,Express
+354,292,2025-03-06,Completed,Card,Express
+355,38,2024-01-18,Processing,M-Pesa,Standard
+356,135,2024-08-08,Completed,M-Pesa,Express
+357,260,2024-10-20,Cancelled,Cash,Express
+358,206,2024-03-25,Cancelled,Card,Express
+359,43,2024-11-13,Completed,Card,Standard
+360,275,2024-11-30,Shipped,M-Pesa,Express
+361,224,2024-09-01,Completed,Card,Standard
+362,223,2024-04-28,Shipped,M-Pesa,Express
+363,90,2024-05-02,Completed,Card,Pickup
+364,6,2024-06-16,Shipped,Bank Transfer,Pickup
+365,265,2024-09-22,Completed,Bank Transfer,Standard
+366,138,2024-04-30,Returned,M-Pesa,Express
+367,220,2024-10-05,Processing,M-Pesa,Express
+368,296,2025-10-04,Completed,Cash,Express
+369,262,2025-01-03,Completed,Cash,Pickup
+370,86,2025-01-11,Completed,Bank Transfer,Standard
+371,294,2025-11-21,Cancelled,M-Pesa,Standard
+372,261,2024-01-03,Completed,M-Pesa,Standard
+373,24,2025-04-28,Completed,Cash,Standard
+374,92,2024-02-06,Processing,Cash,Standard
+375,165,2024-09-11,Shipped,Bank Transfer,Express
+376,40,2025-08-08,Completed,M-Pesa,Pickup
+377,27,2024-07-02,Completed,M-Pesa,Express
+378,36,2025-04-21,Returned,Bank Transfer,Express
+379,168,2024-03-29,Processing,Cash,Standard
+380,189,2024-07-24,Completed,Bank Transfer,Pickup
+381,125,2025-04-20,Completed,Cash,Standard
+382,280,2024-09-08,Completed,M-Pesa,Express
+383,13,2024-08-26,Processing,Bank Transfer,Pickup
+384,5,2024-12-09,Completed,Cash,Pickup
+385,158,2024-04-16,Completed,Card,Express
+386,252,2024-03-02,Completed,Bank Transfer,Standard
+387,23,2024-08-25,Returned,Cash,Pickup
+388,191,2025-04-14,Cancelled,M-Pesa,Pickup
+389,49,2025-06-01,Completed,Cash,Standard
+390,291,2024-03-04,Shipped,Card,Standard
+391,150,2024-09-24,Returned,Bank Transfer,Express
+392,168,2024-11-21,Shipped,Bank Transfer,Standard
+393,39,2024-07-26,Completed,M-Pesa,Standard
+394,55,2024-06-17,Shipped,Cash,Express
+395,209,2024-05-03,Processing,Bank Transfer,Standard
+396,232,2024-11-11,Shipped,Bank Transfer,Standard
+397,47,2024-06-10,Returned,Bank Transfer,Pickup
+398,21,2024-08-08,Returned,Bank Transfer,Standard
+399,47,2025-12-29,Completed,Bank Transfer,Express
+400,263,2024-02-20,Cancelled,Bank Transfer,Express
+401,90,2024-02-01,Shipped,Cash,Pickup
+402,282,2024-09-12,Completed,Cash,Standard
+403,72,2024-05-04,Completed,M-Pesa,Standard
+404,67,2024-07-21,Returned,Cash,Express
+405,44,2025-08-19,Processing,Bank Transfer,Standard
+406,12,2024-03-07,Completed,Cash,Standard
+407,48,2024-12-05,Completed,M-Pesa,Express
+408,26,2024-06-21,Processing,Cash,Pickup
+409,203,2025-05-23,Completed,Cash,Pickup
+410,219,2024-06-25,Completed,Card,Standard
+411,141,2024-10-13,Shipped,Card,Standard
+412,126,2025-10-24,Completed,Cash,Express
+413,282,2025-05-05,Completed,M-Pesa,Express
+414,197,2024-05-20,Shipped,Card,Pickup
+415,270,2024-09-12,Cancelled,M-Pesa,Express
+416,184,2025-05-06,Processing,Cash,Express
+417,290,2025-05-29,Completed,Cash,Express
+418,93,2024-01-27,Completed,Card,Standard
+419,144,2024-02-29,Returned,Cash,Pickup
+420,184,2025-08-21,Completed,Card,Standard
+421,127,2025-11-03,Completed,Bank Transfer,Pickup
+422,29,2024-08-12,Processing,Cash,Express
+423,89,2024-06-29,Completed,Bank Transfer,Pickup
+424,184,2025-08-28,Completed,Bank Transfer,Pickup
+425,289,2024-05-25,Processing,Card,Express
+426,278,2024-11-12,Completed,Cash,Standard
+427,47,2024-02-27,Completed,Card,Standard
+428,270,2025-05-04,Completed,Bank Transfer,Pickup
+429,104,2024-05-13,Completed,Card,Express
+430,31,2024-01-23,Completed,Card,Standard
+431,270,2025-01-08,Completed,Bank Transfer,Pickup
+432,203,2025-08-23,Completed,Bank Transfer,Express
+433,166,2024-05-19,Completed,Cash,Pickup
+434,250,2025-10-26,Completed,Card,Pickup
+435,288,2025-12-11,Processing,Bank Transfer,Standard
+436,90,2025-01-22,Completed,Bank Transfer,Standard
+437,91,2024-01-02,Cancelled,Cash,Pickup
+438,17,2024-07-05,Processing,Bank Transfer,Pickup
+439,114,2025-10-16,Processing,M-Pesa,Express
+440,73,2024-12-05,Cancelled,M-Pesa,Standard
+441,178,2024-11-23,Completed,M-Pesa,Pickup
+442,172,2025-04-02,Completed,Bank Transfer,Standard
+443,128,2025-12-10,Completed,Bank Transfer,Express
+444,56,2024-01-02,Completed,Cash,Express
+445,215,2024-06-19,Shipped,Cash,Express
+446,180,2025-07-13,Shipped,M-Pesa,Express
+447,296,2025-10-28,Returned,Card,Standard
+448,232,2024-03-16,Returned,M-Pesa,Express
+449,11,2024-11-22,Completed,M-Pesa,Standard
+450,176,2024-06-23,Shipped,Card,Pickup
+451,39,2025-07-14,Completed,Bank Transfer,Pickup
+452,248,2025-12-22,Completed,Cash,Pickup
+453,85,2025-09-13,Shipped,Card,Standard
+454,52,2024-12-05,Completed,Card,Express
+455,284,2025-07-07,Completed,Bank Transfer,Express
+456,122,2024-04-08,Completed,Cash,Pickup
+457,282,2025-05-17,Completed,M-Pesa,Express
+458,2,2025-03-13,Completed,Bank Transfer,Pickup
+459,246,2024-07-23,Completed,M-Pesa,Standard
+460,88,2025-10-15,Completed,M-Pesa,Express
+461,60,2024-11-11,Returned,Cash,Express
+462,251,2025-11-07,Completed,M-Pesa,Pickup
+463,279,2025-01-31,Completed,Bank Transfer,Express
+464,190,2024-07-10,Shipped,M-Pesa,Express
+465,226,2025-04-21,Completed,Card,Express
+466,289,2024-03-04,Completed,M-Pesa,Standard
+467,177,2025-07-08,Shipped,Card,Pickup
+468,32,2025-01-31,Returned,Cash,Pickup
+469,244,2025-08-09,Completed,Cash,Express
+470,41,2025-02-08,Returned,M-Pesa,Pickup
+471,293,2025-06-13,Returned,Card,Standard
+472,230,2024-06-26,Completed,Card,Standard
+473,65,2024-02-13,Shipped,M-Pesa,Pickup
+474,223,2024-07-25,Returned,Card,Pickup
+475,133,2024-11-23,Cancelled,M-Pesa,Standard
+476,199,2025-07-23,Shipped,Bank Transfer,Express
+477,267,2025-04-14,Returned,M-Pesa,Pickup
+478,268,2025-03-05,Completed,Cash,Standard
+479,76,2025-08-03,Processing,M-Pesa,Standard
+480,289,2024-04-13,Returned,Bank Transfer,Pickup
+481,177,2025-02-24,Completed,Cash,Pickup
+482,249,2025-08-08,Processing,Cash,Standard
+483,89,2024-10-09,Shipped,Card,Pickup
+484,206,2024-02-09,Shipped,Bank Transfer,Pickup
+485,122,2024-02-20,Cancelled,Cash,Express
+486,191,2024-01-21,Completed,Bank Transfer,Express
+487,144,2025-05-18,Returned,M-Pesa,Standard
+488,69,2024-11-03,Cancelled,Cash,Express
+489,138,2025-03-02,Processing,M-Pesa,Standard
+490,227,2024-08-04,Returned,Cash,Pickup
+491,249,2025-06-12,Returned,Bank Transfer,Standard
+492,264,2024-06-11,Completed,Bank Transfer,Pickup
+493,260,2025-02-17,Completed,M-Pesa,Standard
+494,99,2024-07-24,Returned,M-Pesa,Standard
+495,17,2025-04-12,Completed,Bank Transfer,Pickup
+496,102,2024-10-07,Completed,Cash,Pickup
+497,204,2025-10-12,Completed,M-Pesa,Standard
+498,191,2025-05-15,Processing,Cash,Standard
+499,243,2025-08-23,Processing,Bank Transfer,Express
+500,84,2024-09-21,Cancelled,M-Pesa,Express
+501,15,2025-01-30,Completed,Card,Pickup
+502,110,2024-08-14,Cancelled,Card,Pickup
+503,106,2024-10-02,Cancelled,Cash,Pickup
+504,11,2025-11-29,Completed,Cash,Standard
+505,89,2025-09-07,Returned,M-Pesa,Standard
+506,130,2025-09-14,Returned,Bank Transfer,Pickup
+507,141,2025-03-09,Shipped,Bank Transfer,Express
+508,130,2024-08-11,Shipped,Bank Transfer,Pickup
+509,267,2025-09-30,Shipped,M-Pesa,Standard
+510,262,2025-11-09,Returned,Bank Transfer,Pickup
+511,145,2024-11-01,Cancelled,M-Pesa,Express
+512,33,2024-12-10,Completed,Bank Transfer,Express
+513,134,2025-11-02,Cancelled,Bank Transfer,Standard
+514,77,2025-06-13,Returned,Card,Standard
+515,207,2025-11-07,Completed,Card,Pickup
+516,14,2025-11-02,Shipped,Bank Transfer,Express
+517,215,2025-02-18,Shipped,M-Pesa,Pickup
+518,293,2024-07-13,Completed,Card,Pickup
+519,274,2025-10-15,Returned,Cash,Pickup
+520,184,2025-06-03,Completed,Card,Pickup
+521,286,2024-07-04,Completed,M-Pesa,Express
+522,66,2024-09-21,Cancelled,Card,Pickup
+523,172,2025-11-01,Completed,Card,Express
+524,115,2024-11-10,Shipped,Bank Transfer,Express
+525,134,2025-08-22,Completed,Cash,Standard
+526,241,2024-02-24,Returned,M-Pesa,Express
+527,100,2025-05-27,Completed,Cash,Pickup
+528,153,2025-02-27,Completed,Card,Standard
+529,103,2024-12-16,Shipped,Cash,Standard
+530,162,2024-07-03,Returned,M-Pesa,Express
+531,171,2025-10-08,Completed,Bank Transfer,Pickup
+532,30,2024-01-05,Shipped,Bank Transfer,Standard
+533,87,2025-08-13,Returned,Card,Express
+534,46,2024-05-12,Processing,Cash,Pickup
+535,220,2025-02-17,Shipped,Cash,Express
+536,3,2024-02-08,Processing,Card,Pickup
+537,192,2024-01-15,Completed,Card,Standard
+538,3,2025-10-03,Cancelled,Card,Standard
+539,177,2024-11-15,Completed,M-Pesa,Express
+540,258,2025-08-25,Completed,Card,Standard
+541,24,2024-11-01,Completed,Cash,Pickup
+542,267,2025-09-02,Processing,Bank Transfer,Express
+543,69,2024-12-16,Shipped,Bank Transfer,Standard
+544,85,2025-02-17,Completed,Card,Standard
+545,68,2024-08-04,Cancelled,M-Pesa,Pickup
+546,259,2024-06-22,Completed,Bank Transfer,Pickup
+547,20,2025-01-19,Cancelled,Bank Transfer,Pickup
+548,25,2025-08-31,Completed,M-Pesa,Pickup
+549,11,2024-02-19,Cancelled,M-Pesa,Express
+550,228,2025-01-24,Completed,Bank Transfer,Express
+551,79,2024-07-29,Cancelled,M-Pesa,Express
+552,216,2025-11-08,Completed,Bank Transfer,Pickup
+553,71,2025-03-04,Returned,M-Pesa,Pickup
+554,61,2024-10-16,Completed,M-Pesa,Express
+555,102,2025-09-15,Completed,Bank Transfer,Pickup
+556,104,2025-01-01,Cancelled,Cash,Express
+557,83,2024-02-10,Processing,Cash,Standard
+558,247,2024-12-04,Completed,M-Pesa,Standard
+559,46,2024-04-23,Returned,Cash,Standard
+560,47,2025-06-07,Completed,M-Pesa,Express
+561,119,2025-04-12,Completed,Bank Transfer,Express
+562,26,2024-04-12,Returned,Card,Standard
+563,149,2025-01-03,Returned,Bank Transfer,Express
+564,60,2024-04-07,Returned,M-Pesa,Standard
+565,71,2025-11-10,Cancelled,Card,Express
+566,184,2025-03-24,Processing,Bank Transfer,Pickup
+567,48,2025-01-16,Returned,Bank Transfer,Standard
+568,59,2025-02-14,Shipped,Cash,Express
+569,198,2025-12-07,Returned,Cash,Express
+570,86,2024-04-25,Completed,M-Pesa,Standard
+571,54,2025-03-02,Processing,Cash,Pickup
+572,225,2024-07-04,Processing,Cash,Express
+573,15,2025-12-01,Returned,Card,Express
+574,250,2024-04-25,Shipped,Cash,Standard
+575,33,2024-09-24,Cancelled,Bank Transfer,Standard
+576,269,2025-08-13,Cancelled,Card,Pickup
+577,174,2025-06-15,Processing,M-Pesa,Express
+578,128,2025-05-08,Completed,Cash,Standard
+579,286,2025-09-19,Completed,M-Pesa,Pickup
+580,81,2025-06-01,Returned,Cash,Express
+581,85,2024-03-17,Returned,Cash,Express
+582,124,2024-12-04,Completed,M-Pesa,Pickup
+583,115,2025-07-17,Cancelled,Cash,Express
+584,121,2024-03-21,Shipped,Cash,Pickup
+585,230,2024-03-31,Returned,Cash,Express
+586,162,2024-05-01,Shipped,M-Pesa,Standard
+587,207,2025-02-26,Completed,M-Pesa,Standard
+588,156,2025-06-04,Processing,Card,Pickup
+589,234,2024-12-15,Completed,M-Pesa,Standard
+590,233,2024-12-05,Processing,Cash,Pickup
+591,187,2025-04-08,Completed,M-Pesa,Pickup
+592,114,2024-01-03,Completed,Bank Transfer,Pickup
+593,150,2025-07-14,Processing,Bank Transfer,Pickup
+594,55,2024-02-16,Completed,Cash,Standard
+595,210,2024-04-19,Completed,Card,Standard
+596,62,2025-02-06,Completed,Cash,Standard
+597,174,2024-04-20,Returned,Cash,Standard
+598,64,2025-04-06,Shipped,Card,Express
+599,3,2025-06-27,Cancelled,M-Pesa,Pickup
+600,222,2025-08-22,Shipped,Card,Pickup
+601,297,2024-06-26,Cancelled,Card,Standard
+602,199,2025-11-04,Processing,Bank Transfer,Pickup
+603,197,2025-03-04,Processing,Card,Express
+604,204,2024-12-17,Completed,Cash,Standard
+605,71,2025-02-26,Processing,Bank Transfer,Pickup
+606,281,2024-11-17,Cancelled,Card,Standard
+607,108,2025-10-01,Cancelled,Bank Transfer,Pickup
+608,177,2025-11-19,Completed,Card,Pickup
+609,278,2025-12-11,Cancelled,Bank Transfer,Pickup
+610,60,2024-12-26,Processing,Cash,Pickup
+611,293,2025-11-14,Cancelled,Cash,Pickup
+612,274,2024-10-19,Returned,Cash,Standard
+613,268,2024-04-19,Completed,Cash,Standard
+614,28,2025-11-17,Completed,Card,Express
+615,83,2024-10-20,Cancelled,Bank Transfer,Standard
+616,32,2025-12-08,Returned,Bank Transfer,Standard
+617,278,2024-02-03,Completed,Cash,Standard
+618,288,2024-08-17,Cancelled,Cash,Standard
+619,262,2025-12-13,Completed,M-Pesa,Express
+620,199,2025-03-02,Returned,Bank Transfer,Pickup
+621,28,2024-01-14,Cancelled,Bank Transfer,Standard
+622,227,2024-08-18,Cancelled,Bank Transfer,Pickup
+623,280,2025-09-09,Completed,Card,Express
+624,230,2024-06-30,Cancelled,M-Pesa,Standard
+625,89,2025-06-10,Completed,Cash,Standard
+626,220,2024-10-12,Processing,Bank Transfer,Standard
+627,83,2025-08-21,Returned,Bank Transfer,Standard
+628,170,2025-04-22,Cancelled,Card,Standard
+629,79,2024-11-26,Processing,M-Pesa,Pickup
+630,155,2025-05-17,Returned,Bank Transfer,Standard
+631,163,2025-06-22,Completed,Card,Pickup
+632,35,2025-06-01,Completed,Cash,Pickup
+633,275,2025-02-17,Completed,Bank Transfer,Standard
+634,110,2025-11-10,Completed,Bank Transfer,Express
+635,151,2024-08-11,Returned,Cash,Pickup
+636,5,2024-04-27,Cancelled,Bank Transfer,Express
+637,124,2025-10-19,Processing,Card,Standard
+638,165,2025-01-25,Returned,M-Pesa,Express
+639,132,2025-07-07,Cancelled,Bank Transfer,Standard
+640,265,2025-01-18,Processing,Cash,Express
+641,23,2024-10-30,Cancelled,Card,Express
+642,264,2024-03-25,Completed,Card,Pickup
+643,274,2024-01-08,Cancelled,M-Pesa,Standard
+644,110,2025-12-02,Shipped,M-Pesa,Standard
+645,276,2025-12-20,Cancelled,Cash,Pickup
+646,37,2025-12-03,Completed,M-Pesa,Express
+647,170,2024-02-08,Completed,M-Pesa,Standard
+648,92,2024-09-14,Processing,M-Pesa,Pickup
+649,117,2024-09-21,Shipped,Cash,Express
+650,208,2025-03-19,Completed,M-Pesa,Express
+651,61,2025-07-01,Completed,M-Pesa,Pickup
+652,300,2024-02-16,Cancelled,M-Pesa,Express
+653,258,2024-04-18,Completed,Bank Transfer,Pickup
+654,45,2024-10-15,Returned,Cash,Express
+655,203,2025-11-07,Completed,Cash,Standard
+656,274,2024-08-13,Completed,Cash,Pickup
+657,152,2025-10-11,Completed,Bank Transfer,Pickup
+658,192,2024-01-12,Processing,Card,Standard
+659,22,2024-01-06,Processing,Cash,Pickup
+660,281,2024-03-28,Completed,Card,Pickup
+661,177,2024-08-04,Shipped,Card,Standard
+662,95,2024-08-14,Processing,Bank Transfer,Standard
+663,59,2024-07-04,Cancelled,M-Pesa,Pickup
+664,237,2025-10-22,Processing,M-Pesa,Express
+665,35,2024-09-13,Completed,Card,Pickup
+666,298,2025-05-13,Completed,Bank Transfer,Standard
+667,121,2024-04-12,Completed,M-Pesa,Standard
+668,163,2025-05-12,Shipped,Bank Transfer,Pickup
+669,157,2025-12-11,Processing,Card,Pickup
+670,291,2025-01-08,Returned,Bank Transfer,Express
+671,87,2024-01-05,Completed,Card,Standard
+672,224,2024-10-10,Returned,Bank Transfer,Standard
+673,170,2025-05-06,Shipped,Cash,Express
+674,157,2025-05-13,Processing,M-Pesa,Standard
+675,42,2024-10-14,Returned,Card,Pickup
+676,101,2024-09-26,Cancelled,M-Pesa,Pickup
+677,39,2024-01-20,Returned,M-Pesa,Pickup
+678,297,2025-02-18,Returned,Card,Standard
+679,283,2024-09-23,Processing,Cash,Pickup
+680,77,2025-01-09,Shipped,Card,Pickup
+681,149,2024-05-17,Shipped,M-Pesa,Express
+682,187,2025-05-29,Completed,Card,Pickup
+683,85,2025-06-10,Completed,Cash,Standard
+684,92,2025-08-02,Processing,Card,Pickup
+685,248,2025-01-02,Completed,Card,Express
+686,119,2024-03-05,Completed,Bank Transfer,Standard
+687,22,2025-11-15,Completed,Bank Transfer,Express
+688,241,2025-04-10,Completed,M-Pesa,Pickup
+689,166,2024-04-15,Cancelled,Bank Transfer,Pickup
+690,135,2025-08-15,Processing,Card,Express
+691,194,2025-01-09,Processing,M-Pesa,Pickup
+692,129,2025-01-20,Completed,Cash,Express
+693,177,2025-05-13,Returned,Cash,Pickup
+694,4,2025-05-28,Completed,Cash,Standard
+695,118,2024-03-19,Processing,Bank Transfer,Standard
+696,77,2024-07-10,Completed,Bank Transfer,Pickup
+697,61,2025-11-07,Completed,Cash,Express
+698,59,2025-05-08,Cancelled,Cash,Express
+699,108,2025-08-27,Completed,Cash,Standard
+700,125,2024-02-14,Completed,Card,Standard
+701,263,2024-02-10,Processing,Card,Standard
+702,86,2024-09-21,Completed,Cash,Pickup
+703,289,2025-10-14,Completed,Bank Transfer,Standard
+704,111,2025-04-04,Processing,Cash,Express
+705,88,2024-08-12,Returned,Cash,Pickup
+706,74,2025-08-19,Returned,Card,Pickup
+707,262,2024-09-27,Completed,Bank Transfer,Express
+708,36,2024-08-23,Shipped,Cash,Standard
+709,56,2024-01-17,Completed,Cash,Standard
+710,50,2024-06-30,Shipped,M-Pesa,Pickup
+711,258,2024-04-30,Completed,Cash,Pickup
+712,67,2025-09-09,Processing,M-Pesa,Pickup
+713,221,2025-06-18,Shipped,Bank Transfer,Standard
+714,272,2025-03-15,Completed,Cash,Express
+715,180,2025-08-26,Returned,M-Pesa,Express
+716,69,2024-09-17,Shipped,Card,Standard
+717,146,2025-09-04,Processing,Cash,Express
+718,97,2024-01-06,Cancelled,M-Pesa,Pickup
+719,268,2024-04-30,Processing,M-Pesa,Express
+720,106,2025-12-05,Returned,Bank Transfer,Express
+721,186,2024-04-19,Completed,Cash,Pickup
+722,300,2024-09-16,Completed,Cash,Pickup
+723,188,2025-09-18,Completed,Cash,Standard
+724,212,2025-07-19,Returned,Cash,Standard
+725,190,2025-07-26,Processing,Cash,Express
+726,158,2025-08-14,Completed,Cash,Pickup
+727,71,2025-11-06,Completed,Card,Express
+728,83,2024-04-12,Completed,Cash,Express
+729,282,2025-09-20,Cancelled,M-Pesa,Standard
+730,200,2025-10-13,Completed,M-Pesa,Standard
+731,242,2025-09-06,Shipped,M-Pesa,Standard
+732,135,2024-08-15,Completed,M-Pesa,Pickup
+733,20,2025-01-28,Shipped,Bank Transfer,Pickup
+734,30,2024-06-28,Cancelled,Cash,Express
+735,6,2024-07-25,Returned,Bank Transfer,Standard
+736,18,2025-09-05,Processing,Card,Pickup
+737,87,2025-11-21,Completed,Bank Transfer,Standard
+738,1,2024-06-10,Completed,Bank Transfer,Express
+739,181,2025-11-16,Shipped,Cash,Pickup
+740,103,2025-06-14,Completed,M-Pesa,Standard
+741,282,2024-10-18,Cancelled,Bank Transfer,Express
+742,142,2024-08-19,Processing,Card,Express
+743,207,2025-08-11,Completed,Bank Transfer,Standard
+744,209,2025-06-02,Completed,M-Pesa,Pickup
+745,151,2024-12-14,Completed,Bank Transfer,Pickup
+746,295,2024-09-13,Cancelled,Cash,Express
+747,289,2025-05-10,Returned,Card,Express
+748,235,2025-11-28,Shipped,M-Pesa,Express
+749,60,2024-09-21,Completed,Cash,Pickup
+750,113,2025-11-24,Cancelled,Card,Express
+751,212,2024-12-27,Processing,M-Pesa,Pickup
+752,135,2024-09-11,Completed,M-Pesa,Express
+753,176,2024-03-18,Processing,Card,Express
+754,161,2024-12-28,Completed,Bank Transfer,Standard
+755,98,2025-05-25,Cancelled,Card,Standard
+756,124,2024-09-28,Completed,Card,Standard
+757,128,2025-09-25,Completed,Card,Standard
+758,62,2024-03-21,Cancelled,Cash,Pickup
+759,4,2025-07-08,Completed,Cash,Express
+760,162,2025-05-19,Processing,Bank Transfer,Express
+761,94,2025-06-07,Completed,Cash,Standard
+762,296,2024-05-11,Completed,Cash,Express
+763,277,2024-02-03,Processing,Bank Transfer,Express
+764,90,2025-04-13,Completed,Cash,Express
+765,5,2024-01-13,Cancelled,Card,Express
+766,298,2024-04-13,Completed,Bank Transfer,Pickup
+767,133,2024-07-10,Processing,Bank Transfer,Standard
+768,138,2025-04-27,Processing,Bank Transfer,Express
+769,95,2025-05-25,Shipped,Card,Express
+770,191,2025-01-08,Returned,Cash,Express
+771,231,2024-07-03,Processing,Card,Pickup
+772,118,2024-04-12,Cancelled,Bank Transfer,Standard
+773,285,2025-03-18,Returned,Cash,Standard
+774,75,2024-06-02,Shipped,M-Pesa,Standard
+775,216,2025-05-26,Completed,Bank Transfer,Express
+776,154,2024-09-13,Processing,M-Pesa,Express
+777,51,2025-12-08,Completed,M-Pesa,Standard
+778,131,2025-05-02,Returned,M-Pesa,Express
+779,172,2024-09-23,Completed,Bank Transfer,Pickup
+780,286,2024-09-20,Completed,M-Pesa,Express
+781,63,2024-12-25,Returned,Card,Pickup
+782,295,2025-10-27,Cancelled,Card,Express
+783,182,2024-11-28,Cancelled,Cash,Pickup
+784,229,2024-03-21,Shipped,Bank Transfer,Express
+785,75,2024-06-20,Cancelled,Bank Transfer,Express
+786,293,2025-02-18,Returned,M-Pesa,Standard
+787,83,2024-12-17,Completed,Bank Transfer,Express
+788,150,2025-12-28,Completed,Cash,Express
+789,228,2025-01-06,Cancelled,Cash,Express
+790,86,2024-07-07,Returned,M-Pesa,Standard
+791,121,2025-11-08,Completed,M-Pesa,Standard
+792,86,2025-02-10,Completed,M-Pesa,Standard
+793,243,2025-07-15,Completed,M-Pesa,Express
+794,269,2024-03-26,Completed,Bank Transfer,Pickup
+795,80,2024-03-27,Cancelled,Cash,Express
+796,118,2024-09-10,Cancelled,Bank Transfer,Express
+797,65,2024-05-14,Processing,Card,Standard
+798,18,2025-11-10,Completed,Bank Transfer,Express
+799,240,2025-07-07,Completed,Cash,Standard
+800,277,2024-06-30,Processing,Cash,Pickup
+801,289,2025-03-21,Processing,Bank Transfer,Express
+802,247,2025-07-06,Completed,M-Pesa,Express
+803,158,2025-01-09,Shipped,Bank Transfer,Standard
+804,156,2024-01-11,Completed,Card,Express
+805,147,2025-04-25,Processing,M-Pesa,Pickup
+806,252,2025-05-03,Completed,M-Pesa,Express
+807,150,2025-09-03,Completed,M-Pesa,Pickup
+808,192,2024-07-12,Shipped,Cash,Express
+809,128,2024-06-16,Cancelled,Cash,Express
+810,113,2024-09-26,Completed,Cash,Pickup
+811,123,2025-06-13,Returned,Bank Transfer,Express
+812,273,2024-10-02,Shipped,Card,Standard
+813,94,2024-05-19,Completed,M-Pesa,Pickup
+814,234,2025-09-24,Shipped,Bank Transfer,Pickup
+815,252,2024-07-11,Completed,M-Pesa,Standard
+816,26,2025-07-01,Completed,Card,Standard
+817,145,2024-10-02,Completed,Cash,Pickup
+818,5,2024-08-26,Completed,Card,Standard
+819,253,2024-08-10,Completed,Cash,Express
+820,256,2025-01-15,Shipped,M-Pesa,Express
+821,42,2024-05-29,Completed,Bank Transfer,Express
+822,37,2025-07-10,Shipped,Card,Standard
+823,129,2025-01-25,Returned,M-Pesa,Standard
+824,128,2025-01-29,Returned,Cash,Standard
+825,18,2024-07-22,Shipped,M-Pesa,Pickup
+826,107,2025-04-29,Shipped,Bank Transfer,Express
+827,82,2025-10-06,Cancelled,M-Pesa,Pickup
+828,282,2025-06-17,Completed,Bank Transfer,Express
+829,153,2024-07-22,Completed,M-Pesa,Pickup
+830,112,2024-04-25,Completed,Cash,Express
+831,8,2024-06-20,Returned,Bank Transfer,Pickup
+832,62,2025-02-09,Returned,Card,Standard
+833,22,2025-08-18,Returned,Cash,Pickup
+834,80,2025-01-15,Returned,M-Pesa,Standard
+835,81,2025-05-26,Completed,Bank Transfer,Pickup
+836,31,2024-03-02,Completed,Card,Pickup
+837,275,2024-04-19,Completed,Cash,Standard
+838,163,2025-07-25,Returned,Bank Transfer,Express
+839,99,2024-01-22,Cancelled,Cash,Express
+840,69,2024-09-13,Completed,Cash,Pickup
+841,225,2025-07-26,Completed,Cash,Standard
+842,291,2024-07-10,Processing,Bank Transfer,Express
+843,240,2024-10-08,Returned,Card,Standard
+844,272,2024-06-07,Shipped,Bank Transfer,Express
+845,278,2025-01-10,Shipped,M-Pesa,Pickup
+846,260,2025-01-23,Cancelled,Card,Standard
+847,187,2025-09-27,Completed,Bank Transfer,Pickup
+848,33,2025-11-05,Processing,Cash,Standard
+849,269,2025-11-30,Shipped,Card,Pickup
+850,145,2024-11-26,Shipped,Bank Transfer,Standard
+851,50,2025-06-19,Cancelled,M-Pesa,Standard
+852,67,2024-07-01,Returned,M-Pesa,Standard
+853,55,2025-05-12,Completed,M-Pesa,Standard
+854,293,2025-10-19,Returned,Cash,Pickup
+855,251,2025-06-22,Processing,Bank Transfer,Standard
+856,188,2024-08-14,Processing,M-Pesa,Standard
+857,107,2025-11-02,Shipped,M-Pesa,Express
+858,32,2025-01-04,Processing,Cash,Express
+859,30,2025-09-23,Completed,M-Pesa,Pickup
+860,37,2024-11-07,Completed,Card,Pickup
+861,50,2024-04-13,Cancelled,Card,Pickup
+862,198,2024-07-13,Completed,Card,Pickup
+863,92,2025-07-25,Cancelled,Cash,Pickup
+864,55,2025-10-15,Processing,Bank Transfer,Pickup
+865,235,2025-12-20,Cancelled,Cash,Standard
+866,86,2024-07-03,Processing,Cash,Pickup
+867,173,2025-11-04,Completed,Cash,Express
+868,162,2025-07-17,Completed,Bank Transfer,Express
+869,221,2024-11-27,Processing,Card,Pickup
+870,280,2024-08-07,Shipped,Bank Transfer,Express
+871,232,2025-04-03,Shipped,M-Pesa,Pickup
+872,18,2024-10-18,Processing,M-Pesa,Pickup
+873,70,2024-11-05,Completed,Bank Transfer,Standard
+874,110,2024-11-18,Completed,Bank Transfer,Pickup
+875,262,2025-07-23,Processing,Card,Standard
+876,20,2025-04-16,Completed,Card,Standard
+877,136,2025-01-10,Processing,Card,Standard
+878,132,2024-11-03,Completed,Cash,Pickup
+879,112,2024-03-20,Cancelled,Bank Transfer,Express
+880,89,2025-05-14,Returned,M-Pesa,Pickup
+881,154,2024-02-08,Cancelled,Cash,Standard
+882,29,2024-12-08,Completed,Cash,Express
+883,62,2024-08-20,Cancelled,M-Pesa,Pickup
+884,196,2024-02-25,Completed,M-Pesa,Express
+885,277,2025-08-01,Completed,Bank Transfer,Pickup
+886,114,2024-06-05,Completed,Cash,Express
+887,295,2025-05-31,Completed,Card,Express
+888,149,2025-02-07,Completed,Card,Express
+889,43,2025-05-02,Processing,M-Pesa,Pickup
+890,205,2024-09-25,Completed,Cash,Pickup
+891,223,2025-12-15,Completed,Card,Express
+892,287,2024-07-21,Shipped,Cash,Pickup
+893,293,2024-07-19,Processing,Card,Standard
+894,37,2024-09-29,Returned,Cash,Express
+895,295,2024-04-01,Completed,Cash,Express
+896,188,2024-12-22,Completed,Bank Transfer,Express
+897,13,2024-11-08,Completed,Bank Transfer,Pickup
+898,227,2025-09-30,Completed,Cash,Standard
+899,120,2024-07-23,Cancelled,Bank Transfer,Standard
+900,44,2024-04-25,Cancelled,M-Pesa,Standard
+901,76,2024-10-21,Completed,Bank Transfer,Pickup
+902,57,2024-11-08,Shipped,Cash,Standard
+903,170,2024-08-02,Cancelled,Card,Standard
+904,280,2025-06-19,Returned,Bank Transfer,Pickup
+905,248,2025-09-29,Cancelled,Card,Pickup
+906,10,2025-01-20,Processing,M-Pesa,Express
+907,88,2024-03-02,Completed,Card,Pickup
+908,139,2024-02-24,Shipped,M-Pesa,Standard
+909,199,2025-11-07,Completed,Bank Transfer,Standard
+910,10,2024-10-26,Returned,Cash,Standard
+911,195,2025-06-04,Cancelled,M-Pesa,Express
+912,249,2025-09-03,Processing,M-Pesa,Standard
+913,102,2025-05-27,Shipped,M-Pesa,Standard
+914,127,2025-06-26,Completed,Bank Transfer,Express
+915,202,2024-06-09,Completed,Bank Transfer,Pickup
+916,181,2024-12-29,Cancelled,Bank Transfer,Standard
+917,257,2024-10-09,Returned,M-Pesa,Pickup
+918,132,2025-01-31,Returned,M-Pesa,Pickup
+919,144,2024-08-18,Completed,Bank Transfer,Express
+920,71,2024-03-30,Cancelled,Cash,Pickup
+921,117,2025-03-03,Completed,Card,Express
+922,160,2025-09-11,Completed,Cash,Pickup
+923,68,2024-07-30,Cancelled,Card,Pickup
+924,278,2025-12-01,Returned,Card,Standard
+925,159,2025-12-06,Cancelled,Card,Express
+926,75,2025-11-02,Processing,Card,Express
+927,35,2025-07-24,Processing,M-Pesa,Standard
+928,163,2024-05-29,Cancelled,M-Pesa,Express
+929,212,2025-02-25,Completed,Cash,Pickup
+930,141,2024-06-04,Returned,Card,Standard
+931,68,2024-07-08,Completed,Bank Transfer,Pickup
+932,291,2025-09-19,Completed,Card,Standard
+933,14,2025-01-02,Completed,Cash,Standard
+934,258,2025-09-11,Shipped,Bank Transfer,Standard
+935,199,2025-05-18,Shipped,Card,Standard
+936,99,2024-08-19,Completed,Cash,Standard
+937,139,2025-02-26,Completed,Card,Standard
+938,34,2024-06-30,Shipped,Cash,Pickup
+939,167,2025-04-13,Completed,Cash,Express
+940,22,2025-09-14,Cancelled,Cash,Pickup
+941,161,2025-02-07,Processing,M-Pesa,Pickup
+942,56,2025-04-07,Shipped,M-Pesa,Standard
+943,266,2025-07-04,Shipped,M-Pesa,Pickup
+944,199,2025-06-12,Returned,M-Pesa,Standard
+945,150,2025-03-26,Shipped,Bank Transfer,Express
+946,237,2024-06-19,Shipped,Bank Transfer,Pickup
+947,28,2025-12-07,Processing,Card,Express
+948,232,2024-04-02,Cancelled,M-Pesa,Standard
+949,300,2025-12-13,Processing,Card,Express
+950,212,2024-11-27,Shipped,M-Pesa,Standard
+951,233,2025-08-27,Cancelled,Card,Express
+952,47,2024-09-13,Completed,Card,Pickup
+953,64,2024-04-03,Completed,Cash,Pickup
+954,186,2024-03-28,Processing,Cash,Pickup
+955,262,2025-09-18,Completed,Cash,Pickup
+956,195,2024-02-14,Returned,Card,Express
+957,290,2025-11-06,Returned,Card,Standard
+958,75,2024-07-02,Returned,M-Pesa,Express
+959,158,2024-11-12,Cancelled,Cash,Express
+960,93,2024-04-30,Completed,Card,Standard
+961,130,2024-01-13,Shipped,Cash,Express
+962,279,2024-01-06,Processing,Cash,Standard
+963,112,2025-08-25,Cancelled,Cash,Express
+964,210,2025-03-28,Completed,M-Pesa,Standard
+965,281,2024-10-11,Processing,Card,Standard
+966,95,2024-05-31,Completed,Bank Transfer,Standard
+967,75,2024-02-03,Cancelled,Bank Transfer,Express
+968,45,2024-02-20,Completed,Cash,Standard
+969,83,2025-11-19,Completed,Card,Express
+970,297,2025-01-03,Completed,M-Pesa,Express
+971,166,2025-01-12,Shipped,M-Pesa,Express
+972,282,2024-03-07,Completed,Cash,Standard
+973,63,2025-12-12,Returned,Bank Transfer,Express
+974,270,2025-02-27,Processing,Card,Pickup
+975,108,2025-09-18,Completed,M-Pesa,Pickup
+976,271,2024-03-30,Shipped,Bank Transfer,Express
+977,163,2024-09-22,Processing,Bank Transfer,Standard
+978,289,2025-05-23,Processing,Cash,Express
+979,93,2025-09-16,Completed,Bank Transfer,Standard
+980,1,2024-05-01,Completed,Cash,Pickup
+981,61,2024-07-31,Returned,Cash,Express
+982,24,2024-12-07,Completed,Card,Standard
+983,104,2025-12-07,Completed,Bank Transfer,Standard
+984,158,2024-11-03,Processing,Bank Transfer,Standard
+985,59,2025-12-03,Completed,Bank Transfer,Express
+986,292,2025-09-22,Completed,Card,Standard
+987,170,2024-12-12,Cancelled,Cash,Express
+988,19,2025-10-23,Completed,Cash,Standard
+989,236,2025-07-03,Completed,Cash,Express
+990,29,2025-06-17,Completed,Bank Transfer,Pickup
+991,275,2024-01-20,Completed,Bank Transfer,Express
+992,34,2024-06-01,Completed,M-Pesa,Express
+993,193,2025-10-03,Processing,Card,Pickup
+994,200,2024-07-10,Processing,M-Pesa,Express
+995,162,2025-12-27,Completed,Bank Transfer,Express
+996,45,2025-05-23,Completed,Bank Transfer,Express
+997,155,2024-08-09,Processing,Bank Transfer,Standard
+998,58,2025-01-18,Returned,M-Pesa,Standard
+999,48,2025-03-30,Processing,M-Pesa,Express
+1000,257,2024-06-06,Completed,Bank Transfer,Express
+1001,269,2024-11-13,Returned,Bank Transfer,Standard
+1002,51,2025-06-12,Cancelled,Card,Standard
+1003,19,2025-04-15,Shipped,M-Pesa,Standard
+1004,160,2024-02-15,Cancelled,M-Pesa,Express
+1005,240,2024-02-17,Completed,Bank Transfer,Standard
+1006,296,2024-11-15,Cancelled,Card,Express
+1007,103,2024-07-16,Completed,Bank Transfer,Pickup
+1008,164,2025-03-27,Cancelled,M-Pesa,Express
+1009,77,2024-06-10,Completed,M-Pesa,Standard
+1010,287,2025-06-10,Completed,Card,Pickup
+1011,180,2025-07-16,Completed,Bank Transfer,Standard
+1012,146,2025-08-10,Completed,Card,Standard
+1013,160,2025-09-19,Completed,Cash,Standard
+1014,67,2024-01-30,Shipped,M-Pesa,Standard
+1015,197,2024-02-25,Completed,Cash,Express
+1016,92,2025-12-22,Processing,Cash,Pickup
+1017,183,2024-11-15,Completed,Card,Pickup
+1018,274,2024-03-21,Returned,Cash,Pickup
+1019,68,2024-04-05,Returned,Cash,Standard
+1020,234,2024-11-13,Cancelled,Cash,Express
+1021,119,2024-08-17,Completed,Bank Transfer,Express
+1022,201,2024-07-06,Cancelled,Bank Transfer,Express
+1023,233,2025-05-14,Completed,M-Pesa,Express
+1024,58,2024-12-25,Shipped,Cash,Standard
+1025,145,2024-12-22,Processing,Card,Pickup
+1026,53,2025-02-19,Returned,M-Pesa,Express
+1027,285,2025-10-27,Completed,Bank Transfer,Pickup
+1028,237,2025-02-14,Processing,Cash,Standard
+1029,125,2025-07-15,Completed,Cash,Express
+1030,34,2024-12-14,Completed,Cash,Express
+1031,291,2024-12-16,Processing,Card,Standard
+1032,40,2025-12-29,Processing,Cash,Standard
+1033,238,2024-11-29,Processing,M-Pesa,Express
+1034,91,2024-11-11,Shipped,M-Pesa,Pickup
+1035,56,2025-12-02,Returned,Cash,Express
+1036,254,2025-10-22,Cancelled,M-Pesa,Standard
+1037,112,2024-05-22,Processing,M-Pesa,Standard
+1038,77,2025-04-08,Processing,Bank Transfer,Express
+1039,296,2025-04-02,Completed,Card,Pickup
+1040,163,2024-11-02,Processing,Bank Transfer,Express
+1041,177,2024-04-01,Processing,M-Pesa,Pickup
+1042,262,2025-02-17,Returned,Card,Express
+1043,32,2025-01-13,Processing,M-Pesa,Standard
+1044,287,2025-01-02,Completed,Bank Transfer,Standard
+1045,121,2025-03-18,Cancelled,Cash,Pickup
+1046,163,2025-12-29,Shipped,Cash,Express
+1047,223,2025-07-12,Completed,Card,Express
+1048,72,2024-07-11,Processing,Cash,Express
+1049,214,2024-06-06,Completed,Card,Standard
+1050,6,2024-03-14,Cancelled,M-Pesa,Standard
+1051,250,2025-11-04,Shipped,Card,Standard
+1052,71,2025-10-19,Returned,Cash,Express
+1053,218,2025-09-30,Completed,Cash,Pickup
+1054,218,2025-07-19,Returned,Cash,Express
+1055,182,2024-08-19,Completed,Cash,Pickup
+1056,4,2025-08-14,Shipped,Card,Pickup
+1057,257,2024-10-02,Shipped,Bank Transfer,Standard
+1058,20,2025-08-04,Shipped,Bank Transfer,Standard
+1059,298,2025-05-08,Cancelled,M-Pesa,Standard
+1060,270,2024-10-13,Shipped,M-Pesa,Pickup
+1061,46,2024-09-08,Shipped,M-Pesa,Pickup
+1062,277,2025-08-16,Completed,M-Pesa,Express
+1063,274,2024-01-12,Shipped,Cash,Pickup
+1064,241,2025-08-10,Cancelled,Bank Transfer,Express
+1065,181,2024-10-28,Completed,Card,Standard
+1066,156,2025-07-31,Completed,M-Pesa,Pickup
+1067,243,2025-08-15,Completed,M-Pesa,Pickup
+1068,150,2025-10-01,Completed,Bank Transfer,Express
+1069,43,2024-05-09,Processing,M-Pesa,Express
+1070,130,2024-05-15,Processing,Bank Transfer,Express
+1071,132,2024-01-15,Cancelled,M-Pesa,Pickup
+1072,90,2025-08-28,Cancelled,Card,Pickup
+1073,229,2025-01-13,Returned,Card,Express
+1074,121,2025-05-11,Completed,M-Pesa,Express
+1075,44,2024-05-28,Processing,Card,Express
+1076,212,2025-01-27,Completed,Cash,Pickup
+1077,86,2024-08-03,Processing,Bank Transfer,Standard
+1078,136,2024-04-28,Completed,Card,Express
+1079,205,2025-05-02,Completed,Cash,Pickup
+1080,273,2024-08-27,Shipped,Cash,Express
+1081,135,2024-05-28,Processing,Cash,Standard
+1082,148,2025-04-04,Shipped,Bank Transfer,Pickup
+1083,22,2024-04-09,Processing,Bank Transfer,Express
+1084,140,2024-12-09,Completed,Bank Transfer,Standard
+1085,131,2025-11-01,Processing,Cash,Express
+1086,124,2025-11-19,Processing,Card,Pickup
+1087,173,2025-11-24,Cancelled,Card,Express
+1088,281,2024-01-11,Cancelled,M-Pesa,Standard
+1089,7,2025-02-25,Completed,M-Pesa,Pickup
+1090,229,2024-12-25,Completed,Bank Transfer,Express
+1091,99,2024-02-04,Completed,M-Pesa,Standard
+1092,112,2025-09-05,Cancelled,M-Pesa,Pickup
+1093,62,2024-03-29,Returned,Card,Express
+1094,290,2024-07-08,Completed,Card,Express
+1095,151,2025-04-23,Cancelled,M-Pesa,Pickup
+1096,233,2024-10-10,Returned,Cash,Pickup
+1097,166,2024-09-20,Completed,M-Pesa,Express
+1098,32,2025-01-26,Shipped,Bank Transfer,Standard
+1099,133,2024-09-28,Completed,Cash,Standard
+1100,252,2024-07-24,Processing,Cash,Standard
+1101,252,2024-04-21,Completed,Cash,Standard
+1102,55,2025-03-28,Cancelled,Bank Transfer,Standard
+1103,18,2024-03-15,Completed,Bank Transfer,Express
+1104,10,2025-05-24,Completed,M-Pesa,Standard
+1105,200,2024-09-29,Completed,Bank Transfer,Express
+1106,295,2024-01-04,Processing,Cash,Express
+1107,224,2025-02-17,Returned,M-Pesa,Pickup
+1108,116,2024-01-04,Shipped,Cash,Standard
+1109,291,2025-07-02,Completed,Bank Transfer,Pickup
+1110,156,2025-02-14,Completed,M-Pesa,Express
+1111,274,2024-12-14,Completed,Cash,Express
+1112,104,2024-06-29,Processing,M-Pesa,Express
+1113,98,2024-11-02,Cancelled,Cash,Standard
+1114,184,2025-05-13,Completed,Cash,Pickup
+1115,98,2024-05-23,Completed,Card,Standard
+1116,123,2025-05-15,Shipped,M-Pesa,Pickup
+1117,158,2025-05-26,Processing,Cash,Standard
+1118,19,2024-12-13,Completed,Bank Transfer,Pickup
+1119,22,2025-02-19,Completed,Card,Pickup
+1120,268,2025-04-14,Cancelled,Card,Pickup
+1121,297,2024-08-26,Completed,M-Pesa,Pickup
+1122,73,2025-05-15,Cancelled,M-Pesa,Express
+1123,24,2024-09-05,Cancelled,Card,Standard
+1124,89,2025-10-09,Completed,Bank Transfer,Standard
+1125,234,2025-09-17,Completed,M-Pesa,Standard
+1126,59,2025-05-24,Processing,Card,Standard
+1127,104,2025-03-12,Completed,Cash,Express
+1128,62,2025-12-01,Processing,Card,Express
+1129,110,2024-02-16,Processing,Card,Express
+1130,33,2024-05-03,Completed,Card,Express
+1131,87,2025-12-14,Completed,Card,Express
+1132,125,2025-08-18,Completed,Card,Standard
+1133,193,2024-06-10,Completed,Cash,Standard
+1134,4,2024-01-08,Completed,M-Pesa,Pickup
+1135,146,2025-03-02,Cancelled,Cash,Pickup
+1136,65,2024-07-30,Completed,Bank Transfer,Pickup
+1137,231,2025-02-25,Completed,Card,Pickup
+1138,20,2025-09-02,Completed,Cash,Pickup
+1139,46,2025-10-04,Returned,Bank Transfer,Express
+1140,215,2024-01-05,Processing,Card,Standard
+1141,61,2025-06-26,Completed,Bank Transfer,Pickup
+1142,260,2024-08-12,Shipped,Card,Express
+1143,28,2024-07-17,Completed,Card,Pickup
+1144,243,2025-05-24,Completed,Card,Pickup
+1145,23,2024-02-25,Cancelled,Bank Transfer,Express
+1146,108,2025-03-21,Completed,Bank Transfer,Pickup
+1147,233,2024-02-14,Completed,M-Pesa,Pickup
+1148,91,2024-06-10,Returned,M-Pesa,Express
+1149,264,2024-04-28,Completed,Card,Pickup
+1150,228,2025-08-29,Processing,Bank Transfer,Express
+1151,102,2025-11-24,Completed,Card,Standard
+1152,167,2024-08-21,Completed,Card,Pickup
+1153,212,2024-07-23,Shipped,Card,Standard
+1154,242,2025-08-22,Shipped,M-Pesa,Express
+1155,75,2024-08-09,Processing,Cash,Standard
+1156,199,2025-01-17,Completed,Cash,Pickup
+1157,100,2025-10-09,Completed,Bank Transfer,Standard
+1158,172,2024-05-10,Completed,M-Pesa,Express
+1159,70,2024-04-23,Returned,Cash,Express
+1160,215,2024-06-24,Returned,Bank Transfer,Standard
+1161,152,2025-09-10,Completed,Card,Pickup
+1162,284,2024-08-23,Completed,Cash,Pickup
+1163,251,2024-08-09,Processing,Cash,Express
+1164,143,2024-01-15,Cancelled,Cash,Pickup
+1165,127,2024-09-10,Completed,Cash,Pickup
+1166,114,2025-08-28,Completed,M-Pesa,Express
+1167,23,2024-02-11,Shipped,M-Pesa,Express
+1168,272,2025-02-07,Shipped,M-Pesa,Express
+1169,254,2024-09-03,Completed,M-Pesa,Pickup
+1170,209,2024-08-11,Completed,Bank Transfer,Express
+1171,123,2025-10-25,Completed,M-Pesa,Express
+1172,157,2024-06-14,Cancelled,Cash,Pickup
+1173,299,2024-01-25,Shipped,Cash,Standard
+1174,208,2024-07-08,Returned,Bank Transfer,Pickup
+1175,238,2025-12-21,Cancelled,M-Pesa,Pickup
+1176,37,2025-01-29,Cancelled,Bank Transfer,Pickup
+1177,17,2024-10-30,Shipped,Bank Transfer,Pickup
+1178,278,2025-08-12,Returned,Card,Pickup
+1179,42,2025-09-27,Completed,M-Pesa,Pickup
+1180,187,2024-02-22,Completed,Cash,Express
+1181,239,2025-09-25,Completed,Bank Transfer,Express
+1182,90,2025-10-25,Processing,M-Pesa,Pickup
+1183,105,2024-05-21,Completed,Card,Pickup
+1184,59,2025-10-26,Shipped,Card,Pickup
+1185,116,2024-11-24,Completed,Bank Transfer,Pickup
+1186,217,2024-10-10,Completed,M-Pesa,Express
+1187,177,2025-04-08,Shipped,M-Pesa,Express
+1188,273,2025-11-25,Returned,Bank Transfer,Express
+1189,189,2025-11-20,Cancelled,M-Pesa,Standard
+1190,235,2024-03-30,Completed,Cash,Standard
+1191,148,2024-03-19,Completed,Card,Express
+1192,58,2025-12-14,Completed,Cash,Standard
+1193,105,2025-06-17,Cancelled,M-Pesa,Express
+1194,214,2025-11-29,Processing,Card,Express
+1195,178,2025-03-06,Shipped,M-Pesa,Express
+1196,97,2024-03-05,Completed,Card,Pickup
+1197,172,2025-02-25,Processing,Bank Transfer,Pickup
+1198,168,2025-05-12,Processing,Cash,Express
+1199,156,2025-08-03,Completed,Bank Transfer,Standard
+1200,134,2024-08-20,Shipped,Bank Transfer,Express
+1201,25,2024-05-31,Completed,Bank Transfer,Express
+1202,86,2025-09-25,Completed,Bank Transfer,Standard
+1203,90,2025-12-26,Cancelled,Card,Standard
+1204,122,2024-04-29,Completed,Bank Transfer,Pickup
+1205,65,2025-03-27,Completed,Bank Transfer,Standard
+1206,106,2025-07-29,Cancelled,M-Pesa,Pickup
+1207,163,2024-12-18,Completed,Bank Transfer,Express
+1208,277,2024-06-15,Processing,Bank Transfer,Standard
+1209,13,2025-02-18,Shipped,Card,Express
+1210,164,2024-06-08,Completed,Bank Transfer,Pickup
+1211,152,2025-04-30,Completed,Card,Pickup
+1212,227,2024-12-12,Cancelled,M-Pesa,Pickup
+1213,246,2024-02-11,Completed,M-Pesa,Express
+1214,13,2025-02-15,Processing,Card,Express
+1215,183,2024-04-04,Completed,M-Pesa,Pickup
+1216,100,2025-08-20,Processing,Card,Express
+1217,101,2024-01-24,Completed,Cash,Pickup
+1218,45,2025-06-08,Shipped,Card,Express
+1219,163,2025-09-09,Processing,M-Pesa,Pickup
+1220,185,2025-02-11,Completed,Cash,Express
+1221,198,2025-01-16,Completed,Bank Transfer,Express
+1222,180,2024-11-11,Shipped,M-Pesa,Standard
+1223,228,2025-03-01,Returned,Cash,Express
+1224,84,2025-03-10,Cancelled,Cash,Standard
+1225,45,2024-05-27,Completed,Bank Transfer,Express
+1226,269,2024-12-09,Completed,Cash,Standard
+1227,4,2025-02-23,Cancelled,Bank Transfer,Express
+1228,90,2025-07-23,Shipped,Card,Standard
+1229,96,2025-01-25,Completed,Cash,Standard
+1230,155,2025-08-22,Completed,Cash,Pickup
+1231,238,2024-08-17,Completed,M-Pesa,Standard
+1232,135,2024-11-03,Cancelled,Cash,Standard
+1233,148,2025-03-03,Completed,Cash,Pickup
+1234,126,2024-01-30,Completed,Bank Transfer,Express
+1235,35,2025-09-05,Cancelled,Bank Transfer,Pickup
+1236,247,2025-08-02,Shipped,Bank Transfer,Pickup
+1237,244,2025-12-11,Returned,M-Pesa,Express
+1238,263,2025-08-12,Completed,Bank Transfer,Standard
+1239,298,2024-02-29,Completed,Bank Transfer,Express
+1240,70,2024-12-31,Completed,M-Pesa,Express
+1241,185,2025-03-05,Cancelled,Bank Transfer,Standard
+1242,149,2024-10-25,Processing,M-Pesa,Pickup
+1243,100,2025-10-05,Completed,M-Pesa,Pickup
+1244,86,2025-07-10,Completed,Bank Transfer,Pickup
+1245,155,2024-10-04,Cancelled,Bank Transfer,Standard
+1246,274,2025-08-16,Completed,Card,Standard
+1247,71,2025-06-14,Completed,Bank Transfer,Express
+1248,211,2024-12-14,Completed,M-Pesa,Standard
+1249,80,2025-05-30,Completed,Card,Pickup
+1250,270,2025-06-28,Cancelled,M-Pesa,Express
+1251,236,2024-03-19,Completed,Card,Standard
+1252,246,2024-12-22,Completed,Bank Transfer,Standard
+1253,227,2025-09-03,Processing,Bank Transfer,Standard
+1254,156,2024-01-30,Cancelled,M-Pesa,Standard
+1255,66,2025-12-11,Completed,Card,Express
+1256,65,2024-08-02,Completed,M-Pesa,Express
+1257,58,2024-03-20,Completed,Cash,Express
+1258,22,2024-07-20,Completed,M-Pesa,Pickup
+1259,263,2025-08-30,Completed,Cash,Standard
+1260,130,2024-02-14,Completed,Bank Transfer,Pickup
+1261,6,2024-04-08,Returned,M-Pesa,Pickup
+1262,106,2025-08-24,Completed,Card,Pickup
+1263,180,2024-01-30,Completed,Card,Pickup
+1264,143,2025-08-16,Completed,Bank Transfer,Standard
+1265,257,2025-09-19,Completed,M-Pesa,Standard
+1266,297,2024-01-15,Processing,Card,Pickup
+1267,99,2024-10-15,Completed,M-Pesa,Pickup
+1268,51,2024-08-07,Processing,Cash,Express
+1269,95,2025-03-26,Cancelled,M-Pesa,Standard
+1270,182,2025-01-23,Shipped,Card,Pickup
+1271,117,2025-02-21,Completed,Bank Transfer,Standard
+1272,239,2024-04-22,Processing,Card,Express
+1273,185,2025-12-22,Completed,M-Pesa,Standard
+1274,168,2025-05-20,Completed,Cash,Express
+1275,234,2025-09-06,Cancelled,Bank Transfer,Pickup
+1276,228,2024-08-19,Processing,Cash,Express
+1277,220,2024-07-12,Returned,M-Pesa,Express
+1278,189,2024-07-02,Completed,Cash,Pickup
+1279,54,2025-02-09,Shipped,M-Pesa,Standard
+1280,74,2025-02-08,Shipped,M-Pesa,Pickup
+1281,87,2024-03-07,Completed,Card,Express
+1282,103,2025-09-01,Returned,Cash,Standard
+1283,120,2025-03-10,Cancelled,Cash,Express
+1284,298,2025-08-30,Completed,Cash,Express
+1285,244,2025-11-13,Processing,Cash,Express
+1286,262,2024-10-12,Completed,Cash,Standard
+1287,63,2024-09-13,Shipped,Cash,Standard
+1288,69,2024-01-31,Completed,M-Pesa,Standard
+1289,256,2025-11-25,Completed,Card,Express
+1290,168,2024-06-05,Completed,M-Pesa,Standard
+1291,267,2025-05-19,Returned,Cash,Standard
+1292,151,2025-11-08,Shipped,Cash,Pickup
+1293,134,2025-07-09,Completed,M-Pesa,Standard
+1294,221,2024-05-01,Shipped,Cash,Express
+1295,193,2025-03-29,Shipped,M-Pesa,Standard
+1296,91,2025-07-24,Cancelled,Bank Transfer,Pickup
+1297,85,2025-05-18,Shipped,Card,Express
+1298,200,2025-05-14,Returned,M-Pesa,Pickup
+1299,252,2025-11-06,Processing,Cash,Express
+1300,288,2024-06-09,Processing,M-Pesa,Express
+1301,135,2025-05-21,Processing,Cash,Pickup
+1302,181,2024-10-18,Completed,M-Pesa,Standard
+1303,24,2024-05-11,Returned,Bank Transfer,Express
+1304,299,2024-01-28,Returned,Bank Transfer,Express
+1305,50,2025-03-14,Completed,Bank Transfer,Express
+1306,180,2024-02-27,Cancelled,Card,Standard
+1307,121,2025-10-25,Completed,M-Pesa,Pickup
+1308,34,2024-11-08,Completed,Bank Transfer,Standard
+1309,11,2025-07-05,Completed,M-Pesa,Express
+1310,217,2025-08-04,Processing,Cash,Express
+1311,11,2025-12-13,Shipped,M-Pesa,Express
+1312,194,2025-08-07,Shipped,Bank Transfer,Pickup
+1313,51,2025-05-15,Completed,Card,Express
+1314,255,2025-05-29,Returned,Bank Transfer,Standard
+1315,154,2025-01-07,Shipped,Card,Express
+1316,39,2025-07-02,Completed,Bank Transfer,Express
+1317,25,2024-10-31,Processing,Cash,Standard
+1318,48,2025-08-15,Completed,Bank Transfer,Express
+1319,35,2025-08-03,Returned,Cash,Express
+1320,108,2024-12-21,Returned,M-Pesa,Pickup
+1321,155,2025-05-31,Returned,Bank Transfer,Express
+1322,277,2024-11-16,Completed,Cash,Express
+1323,129,2025-10-01,Processing,Cash,Pickup
+1324,281,2024-07-03,Completed,Card,Pickup
+1325,256,2024-08-06,Cancelled,Cash,Express
+1326,273,2025-09-21,Returned,Cash,Pickup
+1327,31,2025-06-18,Completed,Bank Transfer,Express
+1328,76,2024-09-03,Completed,Bank Transfer,Express
+1329,211,2024-11-22,Returned,M-Pesa,Pickup
+1330,105,2025-02-26,Completed,Bank Transfer,Pickup
+1331,83,2024-09-19,Cancelled,Card,Express
+1332,123,2024-04-26,Completed,Card,Standard
+1333,126,2024-11-13,Shipped,Cash,Pickup
+1334,224,2025-03-08,Cancelled,M-Pesa,Standard
+1335,82,2024-10-06,Completed,M-Pesa,Express
+1336,143,2025-11-05,Processing,Card,Pickup
+1337,22,2025-05-12,Returned,M-Pesa,Standard
+1338,43,2024-11-17,Processing,Bank Transfer,Standard
+1339,209,2025-01-07,Cancelled,M-Pesa,Express
+1340,72,2024-08-29,Completed,M-Pesa,Pickup
+1341,298,2025-06-21,Completed,Cash,Standard
+1342,122,2025-09-06,Completed,Bank Transfer,Express
+1343,300,2025-02-03,Returned,Card,Express
+1344,112,2024-05-27,Completed,Card,Standard
+1345,141,2025-03-26,Shipped,Bank Transfer,Pickup
+1346,29,2025-05-17,Processing,Bank Transfer,Pickup
+1347,58,2024-11-20,Processing,Cash,Express
+1348,127,2024-10-11,Returned,Card,Express
+1349,244,2025-01-11,Returned,Bank Transfer,Standard
+1350,18,2025-11-09,Returned,M-Pesa,Pickup
+1351,123,2024-09-16,Processing,Cash,Express
+1352,186,2025-12-02,Completed,Card,Express
+1353,199,2024-01-09,Shipped,Bank Transfer,Express
+1354,47,2024-08-29,Completed,Card,Standard
+1355,225,2025-10-08,Completed,Cash,Standard
+1356,141,2024-03-23,Returned,Cash,Express
+1357,212,2024-12-06,Cancelled,Cash,Standard
+1358,83,2025-12-16,Completed,M-Pesa,Express
+1359,216,2025-09-08,Cancelled,Bank Transfer,Express
+1360,15,2024-02-23,Cancelled,Card,Pickup
+1361,228,2025-10-18,Completed,M-Pesa,Express
+1362,103,2025-10-05,Completed,Bank Transfer,Pickup
+1363,43,2024-04-23,Completed,Card,Pickup
+1364,67,2025-08-31,Cancelled,Cash,Express
+1365,232,2025-05-04,Returned,Card,Express
+1366,89,2025-12-04,Processing,Bank Transfer,Express
+1367,102,2024-03-27,Shipped,Bank Transfer,Standard
+1368,202,2025-01-21,Returned,Card,Standard
+1369,12,2025-07-25,Cancelled,Card,Standard
+1370,237,2024-07-22,Completed,Card,Standard
+1371,206,2025-09-24,Shipped,Bank Transfer,Standard
+1372,46,2025-01-11,Completed,M-Pesa,Standard
+1373,270,2025-03-21,Returned,Cash,Pickup
+1374,254,2024-05-01,Completed,Card,Standard
+1375,137,2024-10-21,Cancelled,Cash,Express
+1376,67,2025-03-17,Returned,Card,Pickup
+1377,111,2024-10-16,Cancelled,Card,Express
+1378,93,2025-02-22,Returned,Card,Standard
+1379,149,2024-09-25,Completed,Cash,Standard
+1380,190,2025-08-19,Cancelled,Cash,Standard
+1381,6,2025-04-25,Completed,Bank Transfer,Pickup
+1382,204,2025-12-04,Completed,Cash,Pickup
+1383,217,2025-09-03,Completed,M-Pesa,Standard
+1384,286,2024-03-01,Completed,Bank Transfer,Standard
+1385,242,2024-12-28,Processing,M-Pesa,Standard
+1386,130,2025-05-31,Processing,Cash,Express
+1387,203,2025-11-18,Completed,Card,Pickup
+1388,22,2025-08-17,Completed,Bank Transfer,Standard
+1389,258,2025-05-19,Completed,Cash,Standard
+1390,46,2024-11-20,Cancelled,Cash,Standard
+1391,134,2024-04-29,Completed,M-Pesa,Standard
+1392,256,2024-10-14,Cancelled,Bank Transfer,Express
+1393,145,2024-09-26,Processing,Bank Transfer,Pickup
+1394,161,2025-03-22,Completed,Bank Transfer,Pickup
+1395,252,2024-06-03,Processing,Cash,Standard
+1396,97,2024-06-01,Completed,Card,Standard
+1397,19,2025-04-26,Completed,Card,Pickup
+1398,240,2025-03-22,Completed,Cash,Standard
+1399,227,2024-12-31,Cancelled,Cash,Express
+1400,253,2024-04-25,Returned,Card,Standard
+1401,179,2024-04-05,Completed,Bank Transfer,Standard
+1402,87,2025-06-04,Returned,Bank Transfer,Pickup
+1403,300,2024-08-05,Processing,M-Pesa,Pickup
+1404,293,2024-07-03,Shipped,M-Pesa,Standard
+1405,256,2025-11-24,Completed,Bank Transfer,Standard
+1406,146,2025-11-28,Cancelled,M-Pesa,Express
+1407,192,2025-08-27,Completed,Bank Transfer,Standard
+1408,15,2024-03-24,Shipped,Cash,Express
+1409,138,2025-08-31,Cancelled,M-Pesa,Express
+1410,23,2025-11-02,Processing,Cash,Express
+1411,292,2024-05-12,Completed,M-Pesa,Pickup
+1412,145,2024-11-26,Returned,M-Pesa,Pickup
+1413,37,2025-07-14,Processing,Cash,Standard
+1414,205,2024-09-18,Completed,Card,Express
+1415,46,2024-01-22,Returned,Card,Standard
+1416,199,2025-02-16,Completed,Card,Standard
+1417,153,2025-05-17,Returned,Cash,Pickup
+1418,159,2025-12-02,Processing,Card,Express
+1419,50,2025-01-11,Processing,Card,Express
+1420,229,2025-02-01,Shipped,Bank Transfer,Pickup
+1421,217,2024-04-02,Returned,Cash,Express
+1422,96,2025-03-20,Cancelled,Cash,Standard
+1423,21,2025-06-09,Completed,Cash,Pickup
+1424,115,2025-10-25,Cancelled,Card,Express
+1425,270,2025-10-06,Cancelled,M-Pesa,Express
+1426,240,2025-03-23,Completed,Cash,Express
+1427,77,2024-05-10,Cancelled,Bank Transfer,Standard
+1428,268,2025-03-13,Completed,M-Pesa,Pickup
+1429,40,2024-02-16,Processing,M-Pesa,Pickup
+1430,218,2025-02-26,Completed,Cash,Pickup
+1431,292,2024-09-16,Completed,Bank Transfer,Pickup
+1432,42,2025-05-30,Completed,M-Pesa,Pickup
+1433,237,2024-07-02,Returned,Card,Express
+1434,24,2024-03-26,Shipped,Bank Transfer,Express
+1435,233,2025-11-17,Shipped,Bank Transfer,Express
+1436,96,2024-08-04,Completed,M-Pesa,Pickup
+1437,133,2025-11-20,Completed,Cash,Pickup
+1438,10,2024-01-06,Shipped,M-Pesa,Standard
+1439,88,2025-11-02,Shipped,Cash,Pickup
+1440,208,2025-11-04,Cancelled,Cash,Express
+1441,185,2025-12-08,Cancelled,Cash,Express
+1442,45,2024-05-08,Completed,M-Pesa,Standard
+1443,58,2024-01-17,Cancelled,Card,Standard
+1444,108,2025-05-07,Cancelled,Card,Pickup
+1445,124,2025-03-22,Returned,Card,Standard
+1446,155,2025-04-19,Completed,Cash,Express
+1447,12,2024-04-29,Completed,Card,Pickup
+1448,228,2025-05-11,Shipped,M-Pesa,Express
+1449,300,2024-09-05,Completed,Bank Transfer,Pickup
+1450,201,2024-02-22,Completed,M-Pesa,Standard
+1451,222,2025-03-01,Returned,Cash,Pickup
+1452,297,2025-09-02,Cancelled,Bank Transfer,Standard
+1453,250,2025-02-13,Shipped,Cash,Standard
+1454,32,2025-06-24,Completed,Cash,Pickup
+1455,162,2025-07-20,Completed,Bank Transfer,Pickup
+1456,214,2025-04-29,Completed,Cash,Pickup
+1457,178,2025-04-04,Cancelled,Cash,Standard
+1458,83,2024-10-21,Cancelled,Card,Express
+1459,177,2025-03-24,Completed,Card,Pickup
+1460,174,2025-09-08,Returned,Cash,Standard
+1461,151,2025-12-29,Shipped,Cash,Pickup
+1462,185,2025-04-28,Returned,Card,Pickup
+1463,107,2024-10-16,Cancelled,M-Pesa,Pickup
+1464,248,2024-05-12,Completed,Card,Standard
+1465,252,2024-04-13,Returned,Cash,Express
+1466,156,2024-08-28,Completed,M-Pesa,Standard
+1467,184,2024-09-24,Completed,Card,Standard
+1468,258,2024-02-02,Returned,M-Pesa,Express
+1469,221,2024-04-26,Processing,Card,Standard
+1470,288,2024-08-17,Shipped,Bank Transfer,Express
+1471,182,2024-02-17,Returned,Bank Transfer,Standard
+1472,264,2025-09-10,Cancelled,M-Pesa,Pickup
+1473,26,2025-03-24,Returned,Cash,Standard
+1474,55,2025-09-17,Processing,M-Pesa,Pickup
+1475,22,2025-06-03,Completed,Card,Pickup
+1476,61,2024-07-29,Completed,Card,Pickup
+1477,150,2025-12-26,Shipped,Cash,Pickup
+1478,51,2024-06-06,Cancelled,Bank Transfer,Express
+1479,71,2024-05-05,Returned,Card,Express
+1480,213,2024-01-07,Completed,Cash,Express
+1481,147,2025-06-01,Completed,M-Pesa,Express
+1482,191,2025-02-28,Completed,Card,Standard
+1483,272,2025-03-07,Returned,Card,Standard
+1484,220,2025-02-27,Shipped,Cash,Pickup
+1485,186,2024-01-31,Shipped,Card,Standard
+1486,265,2024-03-12,Completed,Bank Transfer,Express
+1487,206,2024-06-17,Shipped,M-Pesa,Express
+1488,19,2025-11-07,Cancelled,Card,Pickup
+1489,30,2025-10-08,Cancelled,Bank Transfer,Express
+1490,206,2025-11-28,Cancelled,Bank Transfer,Pickup
+1491,161,2024-12-18,Completed,Bank Transfer,Pickup
+1492,76,2025-12-18,Shipped,Cash,Pickup
+1493,106,2025-07-11,Processing,Cash,Pickup
+1494,177,2025-10-26,Shipped,Card,Express
+1495,44,2024-02-07,Processing,Bank Transfer,Express
+1496,65,2025-06-16,Processing,Bank Transfer,Standard
+1497,48,2025-06-07,Processing,Bank Transfer,Pickup
+1498,175,2025-10-12,Completed,M-Pesa,Standard
+1499,277,2025-08-29,Completed,Card,Express
+1500,217,2025-06-01,Completed,M-Pesa,Express

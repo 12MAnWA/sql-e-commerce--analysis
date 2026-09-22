@@ -1,0 +1,81 @@
+product_id,product_name,category,unit_price,stock_quantity
+1,Jeans B1,Fashion,2607.87,76
+2,Jeans C2,Fashion,4441.59,20
+3,Coffee Maker D3,Home,11718.36,90
+4,Coffee Maker E4,Home,21493.75,97
+5,Smartphone F5,Electronics,82882.71,81
+6,Backpack G6,Accessories,4331.85,78
+7,Jacket H7,Fashion,6191.08,89
+8,Water Bottle I8,Home,1138.19,18
+9,Fitness Watch J9,Sports,24443.59,52
+10,Monitor K10,Electronics,45504.23,78
+11,Desk L11,Furniture,38638.31,76
+12,Sneakers M12,Fashion,11169.67,87
+13,Jeans N13,Fashion,2378.53,89
+14,Bookshelf O14,Furniture,7521.16,39
+15,Backpack P15,Accessories,8435.07,49
+16,Laptop Q16,Electronics,83163.25,23
+17,T-Shirt R17,Fashion,3232.18,13
+18,Keyboard S18,Electronics,7134.98,8
+19,Headphones T19,Electronics,14064.73,32
+20,Yoga Mat U20,Sports,2795.36,48
+21,Mouse V21,Electronics,2972.3,97
+22,Running Shoes W22,Sports,14987.28,77
+23,Sneakers X23,Fashion,4561.96,11
+24,Keyboard Y24,Electronics,2933.35,84
+25,Smartphone Z25,Electronics,63155.9,39
+26,Blender A26,Home,11112.29,67
+27,Sneakers B27,Fashion,9025.55,39
+28,Office Chair C28,Furniture,26363.69,19
+29,Fitness Watch D29,Sports,14888.01,41
+30,T-Shirt E30,Fashion,2600.54,90
+31,Backpack F31,Accessories,2127.01,55
+32,Sneakers G32,Fashion,4184.77,31
+33,Backpack H33,Accessories,8606.33,22
+34,Bookshelf I34,Furniture,12210.05,20
+35,Laptop J35,Electronics,97382.34,60
+36,Mouse K36,Electronics,1623.44,73
+37,Desk L37,Furniture,28508.66,90
+38,Fitness Watch M38,Sports,6657.74,99
+39,Smartphone N39,Electronics,47226.71,63
+40,Headphones O40,Electronics,15862.71,78
+41,Coffee Maker P41,Home,15894.59,95
+42,Coffee Maker Q42,Home,10500.79,56
+43,Laptop R43,Electronics,118478.99,26
+44,Sneakers S44,Fashion,9251.21,93
+45,Fitness Watch T45,Sports,7026.99,18
+46,Desk U46,Furniture,26377.33,56
+47,Jacket V47,Fashion,4179.71,44
+48,Running Shoes W48,Sports,7491.22,26
+49,Headphones X49,Electronics,10412.49,19
+50,Jacket Y50,Fashion,10649.28,49
+51,Fitness Watch Z51,Sports,21729.72,87
+52,Keyboard A52,Electronics,3501.14,23
+53,Bookshelf B53,Furniture,10550.89,82
+54,Keyboard C54,Electronics,7273.55,88
+55,Headphones D55,Electronics,5245.76,85
+56,Water Bottle E56,Home,1713.49,77
+57,T-Shirt F57,Fashion,2460.95,77
+58,Sneakers G58,Fashion,7540.1,85
+59,Running Shoes H59,Sports,6537.92,13
+60,Water Bottle I60,Home,1661.3,43
+61,Bookshelf J61,Furniture,17645.56,50
+62,Jacket K62,Fashion,4112.86,64
+63,Blender L63,Home,3932.48,52
+64,Backpack M64,Accessories,2352.46,16
+65,Sneakers N65,Fashion,10926.0,54
+66,Blender O66,Home,10173.79,99
+67,Smartphone P67,Electronics,48132.16,78
+68,Office Chair Q68,Furniture,16395.12,65
+69,Jacket R69,Fashion,5262.92,12
+70,Blender S70,Home,4690.27,48
+71,Headphones T71,Electronics,10320.51,27
+72,Smartphone U72,Electronics,34598.83,61
+73,Blender V73,Home,9526.79,83
+74,Mouse W74,Electronics,2937.83,41
+75,Yoga Mat X75,Sports,2753.32,48
+76,Sneakers Y76,Fashion,4154.57,85
+77,Running Shoes Z77,Sports,5389.81,17
+78,Jeans A78,Fashion,6812.98,41
+79,Bookshelf B79,Furniture,20027.21,89
+80,Sneakers C80,Fashion,14416.0,47
